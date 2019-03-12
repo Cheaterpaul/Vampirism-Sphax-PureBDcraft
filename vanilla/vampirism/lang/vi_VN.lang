@@ -1,0 +1,404 @@
+#X-Generator: crowdin.com
+#SKILLS
+text.vampirism.skills.gui_title=Kỹ năng của bạn
+text.vampirism.skills.points_left=kỹ năng %d point(s) trái
+text.vampirism.skill.resetall=Kỹ năng thiết lập lại
+text.vampirism.skill.unlocked=Mở khoá
+text.vampirism.skill.unlocks_action=Mở ra hành động
+text.vampirism.skill.unlock_parent_first=Mở khóa phụ huynh lần đầu tiên
+text.vampirism.skill.skills_reset=Kỹ năng của bạn đã được đặt lại
+text.vampirism.skill.deactivated_by_serveradmin=Kỹ năng này bị vô hiệu hóa bởi máy chủ của bạn
+
+
+#VAMPIRE SKILLS
+text.vampirism.skill.ivampireplayer=Trở thành một ma cà rồng
+text.vampirism.skill.avoided_by_creepers=Tránh bởi creepers
+text.vampirism.skill.blood_vision=Tầm nhìn máu
+text.vampirism.skill.blood_vision.desc=Cho phép bạn xem các thực thể thông qua các bức tường trong bóng tối. Chuyển đổi với chìa khóa.
+text.vampirism.skill.poisonous_bite=Răng độc hại
+text.vampirism.skill.poisonous_bite.desc=Chất độc của sinh vật bạn cắn
+text.vampirism.skill.more_bite_damage=Răng cứng
+text.vampirism.skill.more_bite_damage.desc=Gây phó thiệt hại nhiều hơn khi cắn
+text.vampirism.skill.less_blood_thirst=Ma cà rồng Frugal
+text.vampirism.skill.less_blood_thirst.desc=Giảm khát của bạn cho máu
+text.vampirism.skill.less_garlicdamage=Giảm thiệt hại của tỏi
+text.vampirism.skill.less_sundamage=Giảm thiệt hại của mặt trời
+text.vampirism.skill.night_vision=Tầm nhìn ban đêm
+text.vampirism.skill.disguise=Ngụy trang
+text.vampirism.skill.vampire_forest_fog=Vista
+text.vampirism.skill.vampire_forest_fog.desc=Tăng khoảng cách rải rác trong khu rừng ma cà rồng
+text.vampirism.skill.water_resistance=Khả năng chịu nước
+text.vampirism.skill.water_resistance.desc=Cơ thể của bạn sẽ không được làm suy yếu bởi nước nữa
+
+#HUNTER SKILLS
+text.vampirism.skill.ihunterplayer=Trở thành một thợ săn
+text.vampirism.skill.hunter_attack_speed=Tốc độ gia tăng tấn công
+text.vampirism.skill.weapon_table=Bàn vũ khí săn
+text.vampirism.skill.weapon_table.desc=Tìm hiểu làm thế nào để sử dụng bàn các vũ khí săn
+text.vampirism.skill.double_crossbow=Chạm hai lần
+text.vampirism.skill.double_crossbow.desc=Mở ra đôi nỏ
+text.vampirism.skill.enhanced_crossbow=Tăng cường nỏ
+text.vampirism.skill.enhanced_crossbow.desc=Tìm hiểu làm thế nào để tăng cường nỏ của bạn
+text.vampirism.skill.hunter_advanced_attack_speed=Tấn công nhanh chóng như là Gió
+text.vampirism.skill.hunter_advanced_attack_speed.desc=Tăng tốc độ tấn công của bạn thậm chí nhiều hơn
+text.vampirism.skill.stake1=Làm thế nào để sử dụng một phần vốn
+text.vampirism.skill.stake1.desc=Ngay lập tức giết bất kỳ ma cà rồng có dưới %s% sức khỏe tối đa của mình với một cổ phần
+text.vampirism.skill.stake2=Làm thế nào để thực sự sử dụng một phần vốn
+text.vampirism.skill.stake2.desc_all=Ngay lập tức giết ma cà rồng bất kỳ từ phía sau với một phần vốn là sức khỏe tối đa của ông dưới đây %s
+text.vampirism.skill.stake2.desc_npc=Ngay lập tức giết chết bất kỳ ma cà rồng NPC từ phía sau với một phần vốn là sức khỏe tối đa của ông dưới đây %s
+text.vampirism.skill.blood_potion_table=Bảng Máu Potion
+text.vampirism.skill.blood_potion_table.desc=Tìm hiểu làm thế nào để sử dụng bảng Potion máu tạo potions của máu ma cà rồng
+text.vampirism.skill.blood_potion_good_or_bad=Tốt hay xấu?
+text.vampirism.skill.blood_potion_good_or_bad.desc=Tìm ra bao nhiêu hiệu ứng xấu máu potions của bạn có
+text.vampirism.skill.blood_potion_less_bad=Cải thiện Brewing
+text.vampirism.skill.blood_potion_less_bad.desc=Giảm cơ hội bị ảnh hưởng xấu
+text.vampirism.skill.blood_potion_category_hint=Nhà máy bia có kinh nghiệm
+text.vampirism.skill.blood_potion_category_hint.desc=Nhận được một gợi ý rằng mục phụ của bạn có thể có hiệu lực
+text.vampirism.skill.blood_potion_faster_crafting=Nấu nhanh
+text.vampirism.skill.blood_potion_duration=Cải thiện phản ứng
+text.vampirism.skill.blood_potion_duration.desc=Phản ứng cơ thể của bạn tốt hơn để các potions mà làm cho họ hoạt động lâu hơn
+text.vampirism.skill.blood_potion_portable_crafting=Cà rốt khi đang di chuyển
+text.vampirism.skill.blood_potion_portable_crafting.desc=Tìm hiểu làm thế nào để pha lọ thuốc mà không có Bảng máu Potion
+text.vampirism.skill.blood_potion_identify_some=Nấu nướng
+text.vampirism.skill.blood_potion_identify_some.desc=Nhận biết một số tác dụng của một potion máu
+text.vampirism.skill.tech_weapons=Công nghệ
+text.vampirism.skill.tech_weapons.desc=Học cách xây dựng một số vũ khí tiên tiến
+text.vampirism.skill.enhanced_armor=Tăng giáp
+text.vampirism.skill.enhanced_weapons=Vũ khí nâng cao
+text.vampirism.skill.disguise_hunter.desc=Cho phép bạn ẩn các từ mobs và trở nên ít người có thể nhìn thấy những người chơi khác
+text.vampirism.skill.basic_alchemy=Giả kim cơ bản
+text.vampirism.skill.basic_alchemy.desc=Tìm hiểu cách sử dụng bình Alchemical Cauldron để tạo ra những điều tuyệt vời.
+text.vampirism.skill.garlic_beacon=Đẩy lùi ma cà rồng
+text.vampirism.skill.garlic_beacon.desc=Tìm hiểu làm thế nào để tạo ra một bộ khuếch tán tỏi để giữ cho những ma cà rồng đi.
+text.vampirism.skill.purified_garlic=Tỏi tinh khiết
+text.vampirism.skill.purified_garlic.desc=Làm sạch tỏi của bạn để tăng hiệu quả của nó. Tăng chất diffusor tỏi của bạn với nó.
+text.vampirism.skill.holy_water_enhanced=Nước tinh khiết nâng cao
+text.vampirism.skill.holy_water_enhanced.desc=Tạo Nước Thánh tăng cường thay vì bình thường.
+text.vampirism.skill.garlic_beacon_improved=Bộ khuếch tán cải tiến
+text.vampirism.skill.garlic_beacon_improved.desc=Tìm hiểu làm thế nào để tạo ra một bộ khuếch tán tỏi với một phạm vi cao hơn
+
+#ACTIONS
+action.vampirism.cancel=Hủy bỏ
+
+
+#VAMPIRE ACTIONS
+action.vampirism.vampire.bat_skill=Bật/tắt chế độ dơi
+action.vampirism.vampire.freeze=Đóng băng
+action.vampirism.vampire.invisibility=Tàng hình
+action.vampirism.vampire.regen=Hồi máu
+action.vampirism.vampire.revive_fallen=Giảm hồi sinh
+action.vampirism.vampire.summon_bats=Triệu hồi con dơi
+action.vampirism.vampire.teleport=Dịch chuyển
+action.vampirism.vampire.vampire_rage=Ma cà rồng Rage
+action.vampirism.vampire.sunscreen=Kem chống nắng
+action.vampirism.vampire.disguise=Ngụy trang
+
+#HUNTER ACTIONS
+action.vampirism.hunter.disguise=Ngụy trang
+
+#BLOOD POTIONS
+text.vampirism.blood_potion.might_cause=Có thể gây ra:
+text.vampirism.blood_potion.any_effect=Không có hiệu ứng đặc biệt
+text.vampirism.blood_potion.category.normal_body_boost=Cải thiện cơ thể bằng thể dục
+text.vampirism.blood_potion.category.special_body_boost=Tăng cường cơ thể khỏe mạnh
+text.vampirism.blood_potion.category.normal_vampire_skills=Kỹ năng ma cà rồng
+text.vampirism.blood_potion.category.special_vampire_skills=Kỹ năng đặc biệt của ma cà rồng
+text.vampirism.blood_potion.category.bad_others=Các hiệu ứng xấu không thể đoán trước
+
+
+#ENTITIES
+entity.vampirism.hunter_trainer.name=Ma cà rồng săn huấn viên
+entity.vampirism.advanced_vampire.name=Ma cà rồng tiên tiến
+entity.vampirism.advanced_hunter.name=Thợ săn cao cấp
+entity.vampirism.hunter_villager.name=Dân làng giận dữ
+entity.vampirism.vampire_hunter.name=Thợ săn ma cà rồng
+entity.vampirism.vampire.name=Ma cà rồng
+entity.vampirism.ghost.name=Ma
+entity.vampirism.vampire_baron.name=Ma cà rồng baron
+entity.vampirism.vampire_minion_r.name=Vampire Minion
+entity.vampirism.vampire_minion_s.name=Vampire Minion
+entity.vampirism.blinding_bat.name=Gậy
+entity.vampirism.dracula.name=Dacula
+entity.vampirism.dead_mob.name=Dead mob
+entity.vampirism.portal_guard.name=Portal Guard
+entity.vampirism.converted_villager.name=Người dân bị nhiễm vamking-virut
+text.vampirism.entity_level=Cấp độ
+entity.villager.vampire_hunter=Alchemic Priest
+
+#RITUALS
+text.vampirism.ritual_missing_items=Thiếu %s "%s" cho nghi lễ này
+text.vampirism.ritual_night_only=Bạn chỉ có thể thực hiện nghi lễ này vào ban đêm
+text.vampirism.trainer_level_wrong=Huấn luyện viên này không thể đào tạo bạn ở cấp độ của bạn
+
+#BLOCKS
+tile.vampirism.hunter_table.name=Nghiên cứu bàn thợ săn
+tile.vampirism.castle_block.name=Khối lâu đài
+
+tile.vampirism.cursed_earth.name=Trái đất bị nguyền rủa
+tile.vampirism.altar_infusion.name=Bàn thờ của truyền
+tile.vampirism.altar_pillar.name=Bàn thờ cột
+tile.vampirism.altar_tip.name=Bàn thờ Mẹo
+tile.vampirism.altar_inspiration.name=Bàn thờ của cảm hứng
+tile.vampirism.tent.name=Lều
+tile.vampirism.church_altar.name=Bàn thờ làm sạch
+tile.vampirism.blood_container.name=Máu Container
+tile.vampirism.med_chair.name=Tiêm ghế
+tile.vampirism.vampire_orchid.name=Ma cà rồng phong lan
+tile.vampirism.fire_place.name=Vị trí cháy
+tile.vampirism.weapon_table.name=Bàn vũ khí săn
+tile.vampirism.weapon_table.cannot_use=Bạn đã không học được làm thế nào để sử dụng
+tile.vampirism.blood_potion_table.name=Bảng Máu Potion
+tile.vampirism.blood_potion_table.cannot_use=Bạn đã không học được làm thế nào để sử dụng
+tile.vampirism.sunscreen_beacon.name=Kem chống nắng Beacon
+tile.vampirism.sunscreen_beacon.tooltip1=Sáng tạo.
+tile.vampirism.sunscreen_beacon.tooltip2=Cho kem chống nắng cho ma cà rồng người chơi trong một bán kính khối %s, từ nền tảng Sky.
+tile.vampirism.alchemical_fire.name=Giả kim thuật lửa
+tile.vampirism.alchemical_cauldron.other=Vạc này thuộc về %s. Bạn không nên sử dụng nó.
+tile.vampirism.alchemical_cauldron.name=Alchemical Cauldron
+tile.vampirism.alchemical_cauldron.display=của %s %s
+tile.vampirism.alchemical_cauldron.cannot_use=Bạn đã không học được làm thế nào để sử dụng
+tile.vampirism.garlic_beacon.name=Tỏi Diffusor
+tile.vampirism.garlic_beacon.improved=Cải thiện
+tile.vampirism.garlic_beacon.weak=Yếu kém
+tile.vampirism.garlic_beacon.already_fueled=Đã thúc đẩy
+tile.vampirism.garlic_beacon.successfully_fueled=Thành công nhiên liệu
+tile.vampirism.garlic_beacon.tooltip1=Khuếch tán các hạt tỏi.
+tile.vampirism.garlic_beacon.tooltip2=Ảnh hưởng đến một %s bởi %s đoạn khu vực.
+
+#ITEMS
+item.vampirism.hunter_intel.name=Hunter Intel
+text.vampirism.for_level=cho cấp
+item.vampirism.injection.name=Ống tiêm
+item.vampirism.injection.garlic.name=Tỏi tiêm
+item.vampirism.injection.sanguinare.name=Sanguinare phun
+item.vampirism.item_tent.name=Lều
+item.vampirism.item_coffin.name=Quan tài
+item.vampirism.item_garlic.name=Tỏi
+item.vampirism.item_med_chair.name=Tiêm ghế
+item.vampirism.battle_axe.name=Rìu Chiến
+item.vampirism.crossbow_arrow.name=Nỏ mũi tên
+item.vampirism.crossbow_arrow.vampire_killer.tooltip=Ngay lập tức giết ma cà rồng cấp thấp NPC.
+item.vampirism.crossbow_arrow.vampire_killer.name=Mũi tên sát thủ ma cà rồng
+item.vampirism.crossbow_arrow.spitfire.name=Spitfire
+item.vampirism.crossbow_arrow.spitfire.tooltip=Tạo ra một đám cháy alchemical trên tác động
+item.vampirism.basic_crossbow.name=Nỏ
+item.vampirism.enhanced_crossbow.name=Tăng cường nỏ
+item.vampirism.basic_double_crossbow.name=Đôi nỏ
+item.vampirism.enhanced_double_crossbow.name=Nâng cao đôi nỏ
+item.vampirism.stake.name=Cổ phần
+item.vampirism.vampire_blood_bottle.name=Máu ma cà rồng
+item.vampirism.blood_potion.name=Tầm nhìn máu
+item.vampirism.basic_tech_crossbow.name=Nỏ bán tự động
+item.vampirism.enhanced_tech_crossbow.name=Tăng cường nỏ bán tự động
+item.vampirism.tech_crossbow_ammo_package.name=Mũi tên clip
+item.vampirism.tech_crossbow_ammo_package.tooltip=Có thể được sử dụng để điền vào một %s
+item.vampirism.vampires_fear.name=Ma cà rồng sợ hãi
+item.vampirism.blood_bottle.name=Chai máu
+item.vampirism.vampire_fang.name=Ma cà rồng Fang
+item.vampirism.pitchfork.name=Chim bồ câu
+item.vampirism.human_heart.name=Trái tim của con người
+item.vampirism.torch.name=Đuốc
+item.vampirism.pure_blood.name=Máu tinh khiết
+item.vampirism.sunscreen.name=Kem chống nắng
+item.vampirism.leech_sword.name=Con đỉa
+item.vampirism.coffin.name=Quan tài
+item.vampirism.vampire_armor_helmet.name=Mũ bảo hiểm của ma cà rồng
+item.vampirism.vampire_armor_leggings.name=Xà cạp của ma cà rồng
+item.vampirism.vampire_armor_boots.name=Giày của ma cà rồng
+item.vampirism.vampire_armor_chestplate.name=Áo của ma cà rồng
+item.vampirism.minion_name_tag.name=Thẻ tên Minion
+item.vampirism.gem_of_binding.name=Đá quý của ràng buộc
+item.vampirism.blood_eye.name=Máu mắt
+item.vampirism.weak_vampire_fang.name=Yang Vampire Fang
+item.vampirism.weak_human_heart.name=Trái tim yếu
+item.vampirism.concentrated_garlic.name=Tỏi cô đặc
+item.vampirism.garlic_bomb.name=Bom tỏi
+item.vampirism.vampire_book.name=Cuốn sách ma cà rồng
+item.vampirism.armor_of_swiftness.head.name=Mũ bảo hiểm
+item.vampirism.armor_of_swiftness.chest.name=Chestplate nhẹ
+item.vampirism.armor_of_swiftness.legs.name=Xà cạp nhanh
+item.vampirism.armor_of_swiftness.feet.name=Boots of Swiftness
+item.vampirism.hunter_hat0.head.name=Mũ thợ săn
+item.vampirism.hunter_hat1.head.name=Mũ thợ săn
+item.vampirism.hunter_axe.name=Rìu thợ săn
+item.vampirism.hunter_coat.head.name=Mũ bảo hiểm Hunter Coat
+item.vampirism.hunter_coat.chest.name=Hunter Coat
+item.vampirism.hunter_coat.legs.name=Áo khoác Hunter Coat
+item.vampirism.hunter_coat.feet.name=Áo khoác Hunter Coat
+item.vampirism.obsidian_armor.head.name=Obsidian mũ bảo hiểm
+item.vampirism.obsidian_armor.chest.name=Hòn ngục Obsidian Hell
+item.vampirism.obsidian_armor.legs.name=Xà cạp của địa ngục
+item.vampirism.obsidian_armor.feet.name=Obsidian mũ
+item.vampirism.holy_water_bottle.name=Nước thánh
+item.vampirism.holy_water_bottle.splash.name=Chai nước của Holy Water
+item.vampirism.holy_salt.name=Holy salt
+item.vampirism.holy_salt_water.name=Nước muối Phước
+item.vampirism.item_alchemical_fire.name=Giả kim thuật lửa
+item.vampirism.item_alchemical_fire.desc1=Không lây lan
+item.vampirism.item_alchemical_fire.desc2=Burns vô thời hạn
+item.vampirism.purified_garlic.name=Tỏi tinh khiết
+item.vampirism.garlic_beacon_core.name=Lõi Tỏi Diffusor
+item.vampirism.garlic_beacon_core_improved.name=Cải thiện tỏi Diffusor core
+item.vampirism.pure_salt.name=Muối tinh khiết
+
+#KEYS
+keys.vampirism.select_skills=Chọn kỹ năng
+keys.vampirism.action=Sử dụng hành động
+keys.vampirism.blood_potion_crafting=Cầm tay máu Potion crafting
+keys.vampirism.category=Ma cà rồng
+keys.vampirism.suck=Hút máu
+keys.vampirism.auto=Tự động điền vào máu chai
+keys.vampirism.vision=Chuyển tầm nhìn
+
+
+#ADVANCEMENTS
+advancement.vampirism.become_vampire=Nhận được một số chiếc răng nanh
+advancement.vampirism.become_vampire.desc=Trở thành một ma cà rồng
+advancement.vampirism.become_hunter=Bắt đầu đi săn
+advancement.vampirism.become_hunter.desc=Trở thành một thợ săn ma cà rồng
+
+
+#POTIONS
+effect.vampirism.sunscreen=Kem chống nắng
+effect.vampirism.thirst=Khát vọng
+effect.vampirism.saturation=Độ bão hòa
+effect.vampirism.sanguinare=Sanguinare Vampiris
+effect.vampirism.fire_protection=Lửa bảo vệ
+effect.vampirism.garlic=Tỏi
+
+#FLUIDS
+fluid.vampirism.vampirismblood=Máu
+
+#GUI
+gui.vampirism.hunter_weapon_table=Bàn vũ khí săn
+gui.vampirism.hunter_weapon_table.level=Yêu cầu trình độ thợ săn: %s
+gui.vampirism.hunter_weapon_table.skill=Yêu cầu kỹ năng: %s
+gui.vampirism.blood_potion_table.create=Bắt đầu chế tạo
+gui.vampirism.revertback.head=Quay trở lại bình thường của con người
+gui.vampirism.revertback.desc=Bạn sẽ mất tất cả các cấp độ và chết của bạn
+gui.vampirism.reset_skills.title=Kỹ năng thiết lập lại
+gui.vampirism.reset_skills.desc=Nếu bạn thiết lập lại các kỹ năng của bạn, bạn sẽ mất một cấp. Bạn có muốn đặt lại các kỹ năng của bạn?
+gui.vampirism.reset_skills.desc_test=Bạn có muốn đặt lại các kỹ năng của bạn? (Bạn không phải mất một mức độ, bởi vì bạn đang sử dụng một phiên bản alpha của ma cà rồng)
+gui.vampirism.alchemical_cauldron.level=Yêu cầu trình độ thợ săn: %s
+gui.vampirism.alchemical_cauldron.skill=Yêu cầu kỹ năng: %s
+
+#COMMANDS
+command.vampirism.base.level.faction_not_found=Không tìm thấy nhóm %s
+commands.vampirism.failed_to_execute=Thất bại trong việc thực hiện lệnh. Lỗi nội bộ.
+command.vampirism.base.vampire_biome.searching=Tìm kiếm một quần xã sinh vật rừng ma cà rồng. Hãy chờ
+command.vampirism.base.vampire_biome.not_found=Không có quần xã sinh vật rừng ma cà rồng đã được tìm thấy.
+
+#ENCHANMENTS
+enchantment.vampirism.arrow_frugality=Mũi tên Frugality
+enchantment.vampirism.vampire_slayer=Ma cà rồng Slayer
+
+#ETC
+text.vampirism.vampire=Ma cà rồng
+text.vampirism.vampires=Ma cà rồng
+text.vampirism.all=Tất cả
+text.vampirism.hunter=Thợ săn
+text.vampirism.hunters=Thợ săn
+text.vampirism.level=Cấp độ
+text.vampirism.level_up=Lên cấp
+text.vampirism.can_only_be_used_by=Điều này chỉ có thể được sử dụng bởi %s người chơi
+text.vampirism.can_only_be_used_by_level=Điều này chỉ có thể được sử dụng bởi người chơi %s cấp %s hoặc cao hơn
+text.vampirism.med_chair_other_faction=Bạn không thể trở thành một thợ săn kể từ khi bạn đã có một %s
+text.vampirism.already_vampire=Bạn đã là một ma cà rồng
+text.vampirism.can_only_be_used_with_skill=Điều này chỉ có thể được sử dụng với các kỹ năng: %s
+text.vampirism.need_item_to_use=Bạn cần %s để sử dụng
+text.vampirism.immune_to=Bạn đang miễn dịch với
+text.vampirism.required_skill=Yêu cầu kỹ năng: %s
+text.vampirism.from_behind=Từ phía sau.
+text.vampirism.unknown=Chưa nhận dạng
+text.vampirism.basic_hunter.cannot_train_you_any_further=Tôi không thể đào tạo bạn bất kỳ hơn nữa
+text.vampirism.basic_hunter.pay_n_vampire_blood_more=Xin vui lòng trả tiền cho tôi %s thêm chai máu ma cà rồng để đào tạo bạn
+text.vampirism.basic_hunter.i_will_train_you=Được rồi, tôi sẽ đào tạo bạn
+text.vampirism.i_am_busy_right_now=Bây giờ tôi đang bận
+text.vampirism.crossbow.not_loaded=Không được tải
+text.vampirism.crossbow.loaded_arrow_count=Đã tải % s mũi tên
+itemGroup.vampirism=Ma cà rồng
+death.attack.sun=% 1 $ s đã không thích ánh nắng mặt trời
+death.attack.garlic=% 1 $ s bị ngộ độc bởi tỏi
+death.attack.vampire_on_fire=% 1 $ s bị đốt thành tro
+death.attack.vampire_on_fire.player=% 2 $ s bị cháy %1$s
+death.attack.vampire_in_fire=% 1 $ s bị đốt thành tro
+death.attack.vampire_in_fire.player=% 1 $ s đã bị đốt bởi% 2 $ s
+death.attack.holy_water=% 1 $ s bị đốt bằng nước thánh
+death.attack.holy_water.player=Đã đốt % 2 $ s % 1 $ s bằng nước thánh
+text.vampirism.skill.level_to_low=Mức ma cà rồng của bạn quá thấp so với
+text.vampirism.skill.cooldown_not_over=Vui lòng chờ cho đến khi cooldown kết thúc
+text.vampirism.ritual_missing_times=Bạn đang thiếu các vật phẩm cho nghi thức này
+text.vampirism.ritual_structure_wrong=Cấu trúc này là sai đối với nghi thức này
+text.vampirism.ritual_level_wrong=Bạn không thể sử dụng bàn thờ này ở mức này
+text.vampirism.ritual_still_running=Lễ nghi vẫn đang diễn ra
+text.vampirism.not_enough_blood=Có không đủ máu trong bàn thờ
+text.vampirism.ritual_requirements_not_met=Không phải tất cả các yêu cầu cho nghi thức này đã được đáp ứng
+text.vampirism.purity=Tinh khiết
+text.vampirism.ritual_no_vampire=Bạn cần phải là một ma cà rồng cho nghi lễ này
+text.vampirism.cant_fly_day=Bạn không thể bay vào ban ngày
+text.vampirism.cant_fly_end=Bạn không thể chuyển đổi thành một con dơi ở The End
+text.vampirism.no_more_minions=Bạn không thể kiểm soát bất kỳ tay sai nào
+text.vampirism.coffin.no_sleep=Bạn chỉ có thể ngủ vào ban ngày
+text.vampirism.coffin.occupied=Quan tài này bị chiếm đóng
+text.vampirism.coffin.stopsleeping=Rời quan tài
+text.vampirism.coffin.cant_use=Bạn không thể ngủ trong quan tài
+text.vampirism.blood_left=Máu còn lại
+text.vampirism.blood=máu
+text.vampirism.vampirelevel=Cấp độ ma cà rồng
+text.vampirism.entitysblood=Máu của thực thể
+text.vampirism.minion=Đầy tớ
+text.vampirism.normal_vision=Tầm nhìn bình thường
+text.vampirism.night_vision=Tầm nhìn ban đêm
+text.vampirism.no_control_minion=Bạn không có quyền kiểm soát các minion này
+text.vampirism.need_empty_bottle=Thưa anh, tôi cần một chai có sản phẩm nào để thu thập máu
+text.vampirism.thanks=Cảm ơn
+text.vampirism.coming_back=Tôi quay trở lại, thưa ngài
+text.vampirism.sorry_i_died_while_doing=Chủ nhân, tôi xin lỗi nhưng tôi đã chết trong khi thực hiện nhiệm vụ của bạn
+text.vampirism.current_task=Nhiệm vụ hiện tại
+text.vampirism.lord.become=Bạn được nêu ra với Bá tước Vampire
+text.vampirism.lord.other_player_become=đã đánh bại Bá tước Vampire hiện tại và thay thế anh ta
+text.vampirism.lord.vampire_replace=Một người chơi khác đã thay thế bạn là Vampire Lord
+text.vampirism.lord.vampire_kill_replace=Một ma cà rồng khác đã giết chết bạn và lấy vị trí của bạn là Bá tước Vampire
+text.vampirism.lord.new_lord_castle=Một Bá tước Vampire mới đã lên và di chuyển vào lâu đài của ông
+text.vampirism.lord.vampire_replace_absence=Một ma cà rồng khác đã thay thế bạn là Bá tước Vampire khi bạn vắng mặt
+text.vampirism.lord.portal_disabled=Cổng này không dẫn bất cứ nơi nào
+text.vampirism.lord.level_to_low=Bạn ma cà rồng mức quá thấp để trở thành một Bá tước Vampire
+text.vampirism.guard_stay_away_level_low=Cấp ma cà rồng của bạn quá thấp để đi đến lâu đài của Dracula. Tránh xa!
+text.vampirism.coffin.wrong_dimension=Bạn không thể ngủ ở không gian này.
+
+
+text.vampirism.castle_fail=Ma cà rồng đã không thể tìm thấy một vị trí thích hợp cho một lâu đài ma cà rồng. Đó là đề nghị để tạo ra một thế giới mới. Bạn cũng có thể thử "/ vampirism checkForVampireBiome", nếu mà không tìm thấy một quần xã sinh vật, một mod có thể can thiệp vào.
+text.vampirism.structure=Cấu trúc
+text.vampirism.pillar_blocks=Cột khối
+text.vampirism.no_dracula_to_call=Dracula đã chết và không thể được gọi là
+text.vampirism.garlic_weapons=Vũ khí này bọc với tỏi và chất độc ma cà rồng. / nBut tỏi wears off.
+text.vampirism.outdated=Bạn đang chạy Vampirism %s, phiên bản mới nhất là %s.
+text.vampirism.update_message=["Nhấp chuột nhất... [", {"văn bản":"Tải xuống","màu":"xanh","hoverEvent": {"hành động":"show_text","giá trị": {"văn bản":" Click vào đây để đi đến page","color":"green"}},"clickEvent":{"action":"open_url","value":"@download tải về @"}},"] [", {"văn bản":"Trang web","màu":"xanh","hoverEvent": {"hành động":"show_text","giá trị": {"văn bản":" Click vào đây để đi đến các mod diễn đàn page","color":"green"}},"clickEvent":{"action":"open_url","value":"@forum @"}},"] [", {"văn bản":"Thay đổi","màu":"xanh","hoverEvent": {"hành động":"show_text","giá trị": {"văn bản":"Click vào xem này thay đổi các phiên bản","màu sắc":"xanh"}},"clickEvent": {"hành động":"run_command","giá trị":" / vampirism changelog "}},"] "]
+text.vampirism.action.cooldown_not_over=Thời gian làm nguội chưa kết thúc
+text.vampirism.item_tier.normal=Bình thường
+text.vampirism.item_tier.enhanced=Nâng cao
+text.vampirism.item_tier.ultimate=Đặc biệt
+text.vampirism.poisonous_to_vampires=Độc đối với Ma cà rồng
+text.vampirism.deals_more_damage_to=Thỏa thuận % s phần trăm thiệt hại nhiều hơn so với
+text.vampirism.liquid_container=Bất kỳ thùng chứa chất lỏng
+
+#MINION COMMANDS
+minioncommand.vampirism.attackhostilenoplayers=Tấn công thù địch
+minioncommand.vampirism.attackhostile=Tấn công thù địch bao gồm các người chơi
+minioncommand.vampirism.collectblood=Thu thập máu
+minioncommand.vampirism.defendlord=Nhân vật đang trong thời gian phòng ngự
+minioncommand.vampirism.stayhere=Đứng yên ở đây
+minioncommand.vampirism.comeback=Quay trở lại
+minioncommand.vampirism.justfollow=Chỉ cần đi theo tôi
+minioncommand.vampirism.converttosaveable=Lấy Gem of Binding trở lại
+minioncommand.vampirism.defendarea=Khu vực phòng ngự
+
+#CONFIG
+category.vampirism.balance=Cài đặt Cân bằng
+category.vampirism.balance.tooltip=Thay đổi gần như bất kỳ cân bằng tài sản liên quan
+category.vampirism.balance_mob_prop.tooltip=Thay đổi tài sản của mobs thêm bởi Vampirism
+category.vampirism.balance_village=Tài sản ma cà rồng dân làng
+category.vampirism.balance_village.tooltip=Thay đổi cách thợ săn trong làng hành động và điều chỉnh các thứ khác liên quan đến dân làng
+category.vampirism.disable.tooltip=Vô hiệu hóa mod của mod (không phải đề xuất)
+
+
