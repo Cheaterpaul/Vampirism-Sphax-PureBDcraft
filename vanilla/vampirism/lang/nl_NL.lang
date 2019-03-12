@@ -1,0 +1,400 @@
+#X-Generator: crowdin.com
+#SKILLS
+text.vampirism.skills.gui_title=Jouw vaardigheden
+text.vampirism.skills.points_left=%d vaardigheids punt(en) over
+text.vampirism.skill.resetall=Reset vaardigheden
+text.vampirism.skill.unlocked=Ontgrendeld
+text.vampirism.skill.unlocks_action=Ontgrendelt actie
+text.vampirism.skill.unlock_parent_first=Ontgrendel ouder eerst
+text.vampirism.skill.skills_reset=Uw vaardigheden zijn hersteld
+text.vampirism.skill.deactivated_by_serveradmin=Deze vaardigheid is uitgeschakeld door uw server beheerder
+
+
+#VAMPIRE SKILLS
+text.vampirism.skill.ivampireplayer=Een vampier worden
+text.vampirism.skill.avoided_by_creepers=Vermeden door creepers
+text.vampirism.skill.blood_vision=Bloed zicht
+text.vampirism.skill.blood_vision.desc=Stelt je in staat om entiteiten door een muur heen te zien. inchakelen met toets.
+text.vampirism.skill.poisonous_bite=Giftige tanden
+text.vampirism.skill.poisonous_bite.desc=Vergiftigt de wezens die je bijt
+text.vampirism.skill.more_bite_damage=Geharde tanden
+text.vampirism.skill.more_bite_damage.desc=Geeft meer schade bij bijten
+text.vampirism.skill.less_blood_thirst=Eenvoudige vampier
+text.vampirism.skill.less_blood_thirst.desc=Vermindert je dorst naar bloed
+text.vampirism.skill.less_garlicdamage=Verminderd beschadiging van knoflook
+text.vampirism.skill.less_sundamage=Verminderd beschadiging van de zon
+text.vampirism.skill.night_vision=Nachtzicht
+text.vampirism.skill.disguise=Vermomming
+text.vampirism.skill.vampire_forest_fog=Vista
+text.vampirism.skill.vampire_forest_fog.desc=Vergroot de afstand van de mist in het Forest van de vampier
+text.vampirism.skill.water_resistance=Water bestendig
+text.vampirism.skill.water_resistance.desc=Je lichaam zal niet meer worden afgezwakt door water
+
+#HUNTER SKILLS
+text.vampirism.skill.ihunterplayer=Een jager worden
+text.vampirism.skill.hunter_attack_speed=Versnelde aanvalssnelheid
+text.vampirism.skill.weapon_table=Jagers wapen tafel
+text.vampirism.skill.weapon_table.desc=Leer hoe je de Jagers wapen tafel gebruikt
+text.vampirism.skill.double_crossbow=Verdubbelen
+text.vampirism.skill.double_crossbow.desc=Ontgrendelt de dubbele kruisboog
+text.vampirism.skill.enhanced_crossbow=Verbeterde kruisbogen
+text.vampirism.skill.enhanced_crossbow.desc=Leer hoe uw kruisbogen te verbeteren
+text.vampirism.skill.hunter_advanced_attack_speed=Val zo snel als de wind aan
+text.vampirism.skill.hunter_advanced_attack_speed.desc=Verbeter je aanvals snelheid nog meer
+text.vampirism.skill.stake1=Het gebruiken van een staak
+text.vampirism.skill.stake1.desc=Dood direct een vampier met een staak als die minder dan %s procent van zijn max gezondheid
+text.vampirism.skill.stake2=Hoe je echt een staak gebruikt
+text.vampirism.skill.stake2.desc_all=Dood direct een vampier van van achter met een staak zolang zijn max gezondheid lager dan %s is
+text.vampirism.skill.stake2.desc_npc=Dood direct een vampieren NPC van van achter met een staak zolang zijn max gezondheid lager dan %s is
+text.vampirism.skill.blood_potion_table=Bloed drankjes tafel
+text.vampirism.skill.blood_potion_table.desc=Leer hoe je een bloed drankjes tafel gebruikt om drankjes te maken van vampierenbloed
+text.vampirism.skill.blood_potion_good_or_bad=Goed of slecht?
+text.vampirism.skill.blood_potion_good_or_bad.desc=Ontdek hoeveel slechte effecten je bloed drankjes hebben
+text.vampirism.skill.blood_potion_less_bad=Verbeterd brouwen
+text.vampirism.skill.blood_potion_less_bad.desc=Verlaag de kans op het krijgen van slechte effecten
+text.vampirism.skill.blood_potion_category_hint=Ervaren Brouwer
+text.vampirism.skill.blood_potion_category_hint.desc=Krijg een hint wat je extra object mogelijk doet
+text.vampirism.skill.blood_potion_faster_crafting=Snel brouwen
+text.vampirism.skill.blood_potion_duration=Verbeterde reactie
+text.vampirism.skill.blood_potion_duration.desc=Uw lichaam reageert beter met de drankjes waardoor ze langer werken
+text.vampirism.skill.blood_potion_portable_crafting=Brouwen voor onderweg
+text.vampirism.skill.blood_potion_portable_crafting.desc=Leer bloed drankjes te brouwen zonder een Bloed Drank Tafel
+text.vampirism.skill.blood_potion_identify_some=Brouwen van meester
+text.vampirism.skill.blood_potion_identify_some.desc=Leer wat over de effecten van een bloed drankje
+text.vampirism.skill.tech_weapons=Technologie
+text.vampirism.skill.tech_weapons.desc=Leer hoe je een paar geavanceerde wapens bouwt
+text.vampirism.skill.enhanced_armor=Verbeterde armor
+text.vampirism.skill.enhanced_weapons=Verbeterde wapens
+text.vampirism.skill.disguise_hunter.desc=Geeft je de mogelijkheid om je voor monsters te verstoppen en bijna onzichtbaar te zijn voor andere spelers
+text.vampirism.skill.basic_alchemy=Basis alchemie
+text.vampirism.skill.basic_alchemy.desc=Leer hoe je een Alchemische ketel moet gebruiken om geweldige dingen te maken.
+text.vampirism.skill.garlic_beacon=Vampier afstotend
+text.vampirism.skill.garlic_beacon.desc=Leer hoe je een knoflook diffuser gebruikt om de vampieren op een afstand te houden.
+text.vampirism.skill.purified_garlic=Gezuiverde knoflook
+text.vampirism.skill.purified_garlic.desc=Zuiver je knoflook om zijn effect te vergroten. Versterk je knoflook diffusser er mee.
+text.vampirism.skill.holy_water_enhanced=Versterkt Wijwater
+text.vampirism.skill.holy_water_enhanced.desc=Maak Versterkt Wijwater in plaats van een normaal.
+text.vampirism.skill.garlic_beacon_improved=Verbeterde diffuser
+text.vampirism.skill.garlic_beacon_improved.desc=Leer hoe je een knoflook diffuser maakt met een groter bereik
+
+#ACTIONS
+action.vampirism.cancel=Annuleren
+
+
+#VAMPIRE ACTIONS
+action.vampirism.vampire.bat_skill=Schakel vleermuis mode
+action.vampirism.vampire.freeze=Bevriezen
+action.vampirism.vampire.invisibility=Onzichtbaarheid
+action.vampirism.vampire.regen=Regeneratie
+action.vampirism.vampire.revive_fallen=De gevallen doen heropstaan
+action.vampirism.vampire.summon_bats=Roep vleermuizen
+action.vampirism.vampire.teleport=Teleporteer
+action.vampirism.vampire.vampire_rage=Vampieren Woede
+action.vampirism.vampire.sunscreen=Zonnecreme
+action.vampirism.vampire.disguise=Vermomming
+
+#HUNTER ACTIONS
+action.vampirism.hunter.disguise=Vermomming
+
+#BLOOD POTIONS
+text.vampirism.blood_potion.might_cause=Kan veroorzaken:
+text.vampirism.blood_potion.any_effect=Geen speciale effecten
+text.vampirism.blood_potion.category.normal_body_boost=Verbeterde lichaams fitness
+text.vampirism.blood_potion.category.special_body_boost=Sterk verbeterde lichaams fitness
+text.vampirism.blood_potion.category.normal_vampire_skills=Vampier vaardigheden
+text.vampirism.blood_potion.category.special_vampire_skills=Speciale vampier vaardigheden
+text.vampirism.blood_potion.category.bad_others=Onvoorspelbare slechte effecten
+
+
+#ENTITIES
+entity.vampirism.hunter_trainer.name=Vampier Jager Trainer
+entity.vampirism.advanced_vampire.name=Geavanceerde Vampier
+entity.vampirism.advanced_hunter.name=Geavanceerde Jager
+entity.vampirism.hunter_villager.name=Boze dorpeling
+entity.vampirism.vampire_hunter.name=Vampierenjager
+entity.vampirism.vampire.name=Vampier
+entity.vampirism.ghost.name=Geest
+entity.vampirism.vampire_baron.name=Vampieren Baron
+entity.vampirism.vampire_minion_r.name=Vampieren volgeling
+entity.vampirism.vampire_minion_s.name=Vampieren volgeling
+entity.vampirism.blinding_bat.name=Vleermuis
+entity.vampirism.dracula.name=Dracula
+entity.vampirism.dead_mob.name=Dood wezen
+entity.vampirism.portal_guard.name=Portaal wachter
+entity.vampirism.converted_villager.name=Vampier dorpeling
+text.vampirism.entity_level=Niveau
+entity.villager.vampire_hunter=Alchemische priester
+
+#RITUALS
+text.vampirism.ritual_missing_items=%s van "%s" ontbreekt voor dit ritueel
+text.vampirism.ritual_night_only=Je kan dit ritueel alleen 's nachts uitvoeren
+text.vampirism.trainer_level_wrong=Deze trainer kan je niet met dit niveau trainen
+
+#BLOCKS
+tile.vampirism.hunter_table.name=Jager onderzoekstafel
+tile.vampirism.castle_block.name=Kasteel blok
+
+tile.vampirism.cursed_earth.name=Vervloekte aarde
+tile.vampirism.altar_infusion.name=Altaar van de infusie
+tile.vampirism.altar_pillar.name=Alaar zuil
+tile.vampirism.altar_tip.name=Altaar top
+tile.vampirism.altar_inspiration.name=Altaar van inspiratie
+tile.vampirism.tent.name=Tent
+tile.vampirism.church_altar.name=Altaar van reiniging
+tile.vampirism.blood_container.name=Bloed Houder
+tile.vampirism.med_chair.name=Injectie stoel
+tile.vampirism.vampire_orchid.name=Vampieren orchidee
+tile.vampirism.fire_place.name=Haard
+tile.vampirism.weapon_table.name=Jagers wapen tafel
+tile.vampirism.weapon_table.cannot_use=Je hebt niet geleerd hoe dit te gebruiken
+tile.vampirism.blood_potion_table.name=Bloed drankjes tafel
+tile.vampirism.blood_potion_table.cannot_use=Je hebt niet geleerd hoe dit te gebruiken
+tile.vampirism.sunscreen_beacon.name=Zonnebrandcrème Beacon
+tile.vampirism.alchemical_fire.name=Alchemisch vuur
+tile.vampirism.alchemical_cauldron.other=Deze ketel is van %s. Je mag het niet gebruiken.
+tile.vampirism.alchemical_cauldron.name=Alchemische ketel
+tile.vampirism.alchemical_cauldron.display=%s van %s
+tile.vampirism.alchemical_cauldron.cannot_use=Je hebt niet geleerd hoe dit te gebruiken
+tile.vampirism.garlic_beacon.name=Knoflook Diffusor
+tile.vampirism.garlic_beacon.improved=Verbeterd
+tile.vampirism.garlic_beacon.weak=Zwak
+tile.vampirism.garlic_beacon.already_fueled=Al bijgevuld
+tile.vampirism.garlic_beacon.successfully_fueled=Succesvol bijgevult
+
+#ITEMS
+item.vampirism.hunter_intel.name=Hunter Intel
+text.vampirism.for_level=voor niveau
+item.vampirism.injection.name=Spuit
+item.vampirism.injection.garlic.name=Knoflook injectie
+item.vampirism.injection.sanguinare.name=Sanguinare injectie
+item.vampirism.item_tent.name=Tent
+item.vampirism.item_coffin.name=Kist
+item.vampirism.item_garlic.name=Knoflook
+item.vampirism.item_med_chair.name=Injectie stoel
+item.vampirism.battle_axe.name=Strijdbijl
+item.vampirism.crossbow_arrow.name=Kruisboog pijl
+item.vampirism.crossbow_arrow.vampire_killer.tooltip=Doodt onmiddellijk lage niveau vampier NPC's.
+item.vampirism.crossbow_arrow.vampire_killer.name=Vampieren dooder pijl
+item.vampirism.crossbow_arrow.spitfire.name=Vurig
+item.vampirism.crossbow_arrow.spitfire.tooltip=Maakt Alchemisch vuur op aanraking
+item.vampirism.basic_crossbow.name=Kruisboog
+item.vampirism.enhanced_crossbow.name=Verbeterde kruisboog
+item.vampirism.basic_double_crossbow.name=Dubbele kruisboog
+item.vampirism.enhanced_double_crossbow.name=Verbeterde dubbele kruisboog
+item.vampirism.stake.name=Staak
+item.vampirism.vampire_blood_bottle.name=Vampieren bloed
+item.vampirism.blood_potion.name=Bloed drankje
+item.vampirism.basic_tech_crossbow.name=Semi-automatische kruisboog
+item.vampirism.enhanced_tech_crossbow.name=Verbeterde semi-automatische kruisboog
+item.vampirism.tech_crossbow_ammo_package.name=Pijl punt
+item.vampirism.tech_crossbow_ammo_package.tooltip=Kan worden gebruikt voor het aanvullen van een %s
+item.vampirism.vampires_fear.name=Vampieren angst
+item.vampirism.blood_bottle.name=Bloed fles
+item.vampirism.vampire_fang.name=Vampieren tanden
+item.vampirism.pitchfork.name=Hooivork
+item.vampirism.human_heart.name=Menselijk hart
+item.vampirism.torch.name=Toorts
+item.vampirism.pure_blood.name=Puur bloed
+item.vampirism.sunscreen.name=Zonnecreme
+item.vampirism.leech_sword.name=Bloedzuiger
+item.vampirism.coffin.name=Kist
+item.vampirism.vampire_armor_helmet.name=Vampieren helm
+item.vampirism.vampire_armor_leggings.name=vampieren broek
+item.vampirism.vampire_armor_boots.name=Vampieren schoenen
+item.vampirism.vampire_armor_chestplate.name=Vampieren borstplaat
+item.vampirism.minion_name_tag.name=Volgelingen naam kaartje
+item.vampirism.gem_of_binding.name=Juweel van binding
+item.vampirism.blood_eye.name=Bloed oog
+item.vampirism.weak_vampire_fang.name=Zwakke Vampieren tand
+item.vampirism.weak_human_heart.name=Zwak menselijk hart
+item.vampirism.concentrated_garlic.name=Geconcentreerde knoflook
+item.vampirism.garlic_bomb.name=Knoflook bom
+item.vampirism.vampire_book.name=Vampieren boek
+item.vampirism.armor_of_swiftness.head.name=Helm van snelheid
+item.vampirism.armor_of_swiftness.chest.name=Borstplaat van snelheid
+item.vampirism.armor_of_swiftness.legs.name=Legging van snelheid
+item.vampirism.armor_of_swiftness.feet.name=Laarzen van snelheid
+item.vampirism.hunter_hat0.head.name=Jagers hoed
+item.vampirism.hunter_hat1.head.name=Jagers hoed
+item.vampirism.hunter_axe.name=Jagers bijl
+item.vampirism.hunter_coat.head.name=Jagers helm
+item.vampirism.hunter_coat.chest.name=Jagers jas
+item.vampirism.hunter_coat.legs.name=Jagers leggings
+item.vampirism.hunter_coat.feet.name=Jagers laarzen
+item.vampirism.obsidian_armor.head.name=Obsidiaan helm van de hel
+item.vampirism.obsidian_armor.chest.name=Obsidiaan borstplaat van de hel
+item.vampirism.obsidian_armor.legs.name=Obsidiaan broek van de hel
+item.vampirism.obsidian_armor.feet.name=Obsidiaan schoenen van de hel
+item.vampirism.holy_water_bottle.name=Wijwater
+item.vampirism.holy_water_bottle.splash.name=Spattend flesje Wijwater
+item.vampirism.holy_salt.name=Heilig zout
+item.vampirism.holy_salt_water.name=Heilig zout Water
+item.vampirism.item_alchemical_fire.name=Alchemisch vuur
+item.vampirism.item_alchemical_fire.desc1=Verspreid niet
+item.vampirism.item_alchemical_fire.desc2=Brand voor onbepaalde tijd
+item.vampirism.purified_garlic.name=Gezuiverde knoflook
+item.vampirism.garlic_beacon_core.name=Knoflook baken Kern
+item.vampirism.garlic_beacon_core_improved.name=Verbeterde knoflook Baken Kern
+item.vampirism.pure_salt.name=Zuiver zout
+
+#KEYS
+keys.vampirism.select_skills=Selecteer vaardigheden
+keys.vampirism.action=Gebruik acties
+keys.vampirism.blood_potion_crafting=Draagbare bloed drankje knutselen
+keys.vampirism.category=Vampirisme
+keys.vampirism.suck=Bloed zuigen
+keys.vampirism.auto=Automatisch opvullen van de bloedfles
+keys.vampirism.vision=Wissel zicht
+
+
+#ADVANCEMENTS
+advancement.vampirism.become_vampire=Krijg tanden
+advancement.vampirism.become_vampire.desc=Wordt een vampier
+advancement.vampirism.become_hunter=Begin met jagen
+advancement.vampirism.become_hunter.desc=Wordt een vampieren jager
+
+
+#POTIONS
+effect.vampirism.sunscreen=Zonnecreme
+effect.vampirism.thirst=Dorst
+effect.vampirism.saturation=Verzadiging
+effect.vampirism.sanguinare=Sanguinare Vampiris
+effect.vampirism.fire_protection=Vuurbescherming
+effect.vampirism.garlic=Knoflook
+
+#FLUIDS
+fluid.vampirism.vampirismblood=Bloed
+
+#GUI
+gui.vampirism.hunter_weapon_table=Jagers wapen tafel
+gui.vampirism.hunter_weapon_table.level=Jagers niveau vereist: %s
+gui.vampirism.hunter_weapon_table.skill=Vereiste vaardigheden: %s
+gui.vampirism.blood_potion_table.create=Begin met maken
+gui.vampirism.revertback.head=Terugkeren naar normale mens
+gui.vampirism.revertback.desc=Je zult al je levels verliezen en sterven
+gui.vampirism.reset_skills.title=Reset vaardigheden
+gui.vampirism.reset_skills.desc=Als je je vaardigheden reset verlies je een niveau. Wil je je vaardigheden resetten?
+gui.vampirism.reset_skills.desc_test=Wilt je je vaardigheden te resetten? (Je verliest geen niveau, omdat u een alpha-versie van vampirisme gebruikt)
+gui.vampirism.alchemical_cauldron.level=Jagers niveau vereist: %s
+gui.vampirism.alchemical_cauldron.skill=Vereiste vaardigheden: %s
+
+#COMMANDS
+command.vampirism.base.level.faction_not_found=Niet vonden factie %s
+commands.vampirism.failed_to_execute=Kan de opdracht niet uitvoeren. Interne fout.
+command.vampirism.base.vampire_biome.searching=Op zoek naar een vampieren bos biotoop. Een ogenblik geduld
+command.vampirism.base.vampire_biome.not_found=Geen Vampieren bos biotoop werd gevonden.
+
+#ENCHANMENTS
+enchantment.vampirism.arrow_frugality=Pijl spaarzaamheid
+enchantment.vampirism.vampire_slayer=Vampieren doder
+
+#ETC
+text.vampirism.vampire=Vampier
+text.vampirism.vampires=Vampieren
+text.vampirism.all=Allemaal
+text.vampirism.hunter=Jager
+text.vampirism.hunters=Jager
+text.vampirism.level=Niveau
+text.vampirism.level_up=Niveau omhoog
+text.vampirism.can_only_be_used_by=Dit kan alleen worden gebruikt door %s spelers
+text.vampirism.can_only_be_used_by_level=Dit kan alleen worden gebruikt door %s spelers van niveau %s of hoger
+text.vampirism.med_chair_other_faction=U kan niet worden een jager, omdat je al een %s bent
+text.vampirism.already_vampire=Je bent al een vampier
+text.vampirism.can_only_be_used_with_skill=Dit kan alleen worden gebruikt met vaardigheid: %s
+text.vampirism.need_item_to_use=U hebt %s nodig om dit te gebruiken
+text.vampirism.immune_to=Je bent ongevoelig voor
+text.vampirism.required_skill=Vereiste vaardigheden: %s
+text.vampirism.from_behind=Van achteren.
+text.vampirism.unknown=Onbekend
+text.vampirism.basic_hunter.cannot_train_you_any_further=Ik kan je niet verder opleiden
+text.vampirism.basic_hunter.pay_n_vampire_blood_more=Betaal me %s meer vampieren bloed flessen om je te trainen
+text.vampirism.basic_hunter.i_will_train_you=Oke, ik zal je trainen
+text.vampirism.i_am_busy_right_now=Ik ben nu bezig
+text.vampirism.crossbow.not_loaded=Niet geladen
+text.vampirism.crossbow.loaded_arrow_count=%s Pijlen geladen
+itemGroup.vampirism=Vampirisme
+death.attack.sun=%1$s Hield nied van de zon
+death.attack.garlic=%1$s werd vergiftigd door knoflook
+death.attack.vampire_on_fire=%1$s verbrand tot as
+death.attack.vampire_on_fire.player=%2$s heeft %1$s verbrand
+death.attack.vampire_in_fire=%1$s verbrand tot as
+death.attack.vampire_in_fire.player=%1$s was verbrand door %2$s
+death.attack.holy_water=%1$s werd verbrand met wijwater
+death.attack.holy_water.player=%2$s heeft verbrand %1$s met wijwater
+text.vampirism.skill.level_to_low=Je vampieren level is te laag om dit te doen
+text.vampirism.skill.cooldown_not_over=Wacht alsjeblieft tot het afkoelen voorbij is
+text.vampirism.ritual_missing_times=Je mist dingen voor dit ritueel
+text.vampirism.ritual_structure_wrong=De structuur is verkeerd voor dit ritueel
+text.vampirism.ritual_level_wrong=Je kunt dit altaar niet gebruiken op dit niveau
+text.vampirism.ritual_still_running=Het ritueel wordt nog steeds uitgevoerd
+text.vampirism.not_enough_blood=Er is niet genoeg bloed in het altaar
+text.vampirism.ritual_requirements_not_met=Niet alle eisen voor dit ritueel werden voldaan
+text.vampirism.purity=Zuiverheid
+text.vampirism.ritual_no_vampire=Je moet een vampier voor dit ritueel
+text.vampirism.cant_fly_day=Je kunt niet vliegen overdag
+text.vampirism.cant_fly_end=Je kan uiteindelijk niet in een vleermuis veranderen
+text.vampirism.no_more_minions=Je kan geen extra volgelingen meer controleren
+text.vampirism.coffin.no_sleep=Je kan enkel overdag slapen
+text.vampirism.coffin.occupied=Deze kist is in gebruik
+text.vampirism.coffin.stopsleeping=Verlaat de kist
+text.vampirism.coffin.cant_use=Je kan niet in een kist slapen
+text.vampirism.blood_left=Overgelaten bloed
+text.vampirism.blood=Bloed
+text.vampirism.vampirelevel=Vampierenlevel
+text.vampirism.entitysblood=Wezen's bloed
+text.vampirism.minion=Volgeling
+text.vampirism.normal_vision=Normaal zicht
+text.vampirism.night_vision=Nachtzicht
+text.vampirism.no_control_minion=Je hebt geen controle over deze volgeling
+text.vampirism.need_empty_bottle=Mijn heer, Ik heb een lege fles nodig om bloed te verzamelen
+text.vampirism.thanks=Bedankt
+text.vampirism.coming_back=Ik kom terug, Mijn heer
+text.vampirism.sorry_i_died_while_doing=Mijn heer, het spijt me maar ik ben gestroven toen ik uw taak in vervulling bracht
+text.vampirism.current_task=Huidige taak
+text.vampirism.lord.become=U worden verhoogd tot Vampieren heer
+text.vampirism.lord.other_player_become=heeft de huidige vampieren heer verslagen en vervangt hem
+text.vampirism.lord.vampire_replace=Een andere speler heeft vervangen u als Vampieren heer
+text.vampirism.lord.vampire_kill_replace=Een andere vampire heeft u gedood en uw plaats als Vampieren heer ingenomen
+text.vampirism.lord.new_lord_castle=Een nieuwe Vampieren heer is ge creërt en is verhuisd naar zijn kasteel
+text.vampirism.lord.vampire_replace_absence=Een andere vampier heeft u vervangen als Vampieren heer in uw afwezigheid
+text.vampirism.lord.portal_disabled=Dit portaal leidt nergens naar toe
+text.vampirism.lord.level_to_low=Je vampieren nieveau is te laag om een vampieren heer te worden
+text.vampirism.guard_stay_away_level_low=Uw vampieren niveau is te laag om naar Dracula's kasteel te reizen. Blijf uit de buurt!
+text.vampirism.coffin.wrong_dimension=Je kan niet slapen in deze dimensie.
+
+
+text.vampirism.castle_fail=Vampirisme was niet in staat om een geschikte positie voor een Vampieren kasteel te vinden.\nHet wordt aanbevolen om een nieuwe wereld te genereren. U kunt ook proberen "/ vampirisme checkForVampireBiome", als dat geen biotoop kan vinden, is een andere mod zich waarschijnlijk aan het mengen.
+text.vampirism.structure=Structuur
+text.vampirism.pillar_blocks=Pilaar blokken
+text.vampirism.no_dracula_to_call=Dracula is dood en kan niet geroept worden
+text.vampirism.garlic_weapons=Dit wapen is bedekt met knoflook en vergiftigt vampieren. / nMaar de knoflook verdwijnt.
+text.vampirism.outdated=U speelt met Vampirisme %s, de nieuwste versie is %s.
+text.vampirism.update_message=["Click for... [",{"text":"Download","Kleur":"Groen","hoverEvent":{"action":"show_text","value":{"text":"Klik hier om naar de downloadpagina te gaan","Kleur":"Groen"}},"clickEvent":{"action":"open_url","value":"@download@"}},"] [",{"text":"Website","Kleur":"Groen","hoverEvent":{"action":"show_text","value":{"text":"Klik hier om naar de mod's forum paagina te gaan","Kleur":"Groen"}},"clickEvent":{"action":"open_url","value":"@forum@"}},"] [",{"text":"Changelog","Kleur":"Groen","hoverEvent":{"action":"show_text","value":{"text":"Klik hier om deze versies changelog te zien","Kleur":"Groen"}},"clickEvent":{"action":"run_command","value":"/vampirism changelog"}},"]"]
+text.vampirism.action.cooldown_not_over=Afkoelen is nog niet gedaan
+text.vampirism.item_tier.normal=Normaal
+text.vampirism.item_tier.enhanced=Verbeterd
+text.vampirism.item_tier.ultimate=Speciaal
+text.vampirism.poisonous_to_vampires=Giftig voor vampieren
+text.vampirism.deals_more_damage_to=Gaat %s procent meer schade tegen
+text.vampirism.liquid_container=Elke vloeistof houder
+
+#MINION COMMANDS
+minioncommand.vampirism.attackhostilenoplayers=Vijandig aanvallen
+minioncommand.vampirism.attackhostile=Vijandig aanvallen inclusief speler
+minioncommand.vampirism.collectblood=Verzamel bloed
+minioncommand.vampirism.defendlord=Verdedig heer
+minioncommand.vampirism.stayhere=Blijf hier
+minioncommand.vampirism.comeback=Kom terug (afgelegen volgelingen)
+minioncommand.vampirism.justfollow=Volg me
+minioncommand.vampirism.converttosaveable=Neem juweel van binding terug
+minioncommand.vampirism.defendarea=Verdedig gebied
+
+#CONFIG
+category.vampirism.balance=Balans instellingen
+category.vampirism.balance.tooltip=Bijna elke evenwichte relevante eigenschap wijzigen
+category.vampirism.balance_mob_prop.tooltip=Verander eigenschappen van de wezens toegevoegd door Vampirisme
+category.vampirism.balance_village=Vampieren dorp eigenschappen
+category.vampirism.balance_village.tooltip=Verander de manier waarop de jagers in dorpen zich gedragen en andere dorp gerelateerde dingen
+category.vampirism.disable.tooltip=Zet delen van de mod uit (niet aangeraden)
+
+

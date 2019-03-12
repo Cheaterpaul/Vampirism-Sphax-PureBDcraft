@@ -1,0 +1,370 @@
+#X-Generator: crowdin.com
+#SKILLS
+text.vampirism.skills.gui_title=Twoje umiejętności
+text.vampirism.skills.points_left=%d pozostały(ch) punkt(ów) umiejętności
+text.vampirism.skill.resetall=Zeruj umiejętności
+text.vampirism.skill.unlocked=Odblokowano
+text.vampirism.skill.unlocks_action=Odblokowuje akcję
+text.vampirism.skill.unlock_parent_first=Wpierw odblokuj rodzica
+text.vampirism.skill.skills_reset=Twoje umiejętności zostały zresetowane
+text.vampirism.skill.deactivated_by_serveradmin=Ta umiejętność jest zablokowana przez admina serwera
+
+
+#VAMPIRE SKILLS
+text.vampirism.skill.ivampireplayer=Przemienienie się w wampira
+text.vampirism.skill.avoided_by_creepers=Omijany przez creepery
+text.vampirism.skill.blood_vision=Krwawa wizja
+text.vampirism.skill.blood_vision.desc=Pozwala ci na widzenie stworzeń przez ściany w ciemności. Przełącz klawiszem.
+text.vampirism.skill.poisonous_bite=Trujący Ząb
+text.vampirism.skill.poisonous_bite.desc=Zatruwa ugryzione przez ciebie stworzenia
+text.vampirism.skill.more_bite_damage=Zhartowany Ząb
+text.vampirism.skill.more_bite_damage.desc=Zadaje wiecej obrażeń podczas gryzienia
+text.vampirism.skill.less_blood_thirst=Oszczędny wampir
+text.vampirism.skill.less_blood_thirst.desc=Zmniejsza pragnienie krwi
+text.vampirism.skill.less_garlicdamage=Zmniejsza obrażenia od czosnku
+text.vampirism.skill.less_sundamage=Zmniejsza obrażenia od słońca
+text.vampirism.skill.night_vision=Nocna wizja
+text.vampirism.skill.disguise=Przebranie
+text.vampirism.skill.vampire_forest_fog=Perspektywa
+text.vampirism.skill.vampire_forest_fog.desc=Zwiększ odległość mgły w Lesie Wampirów
+text.vampirism.skill.water_resistance=Odporność na wodę
+text.vampirism.skill.water_resistance.desc=Woda nie będzie dłużej osłabiać twojego ciała
+
+#HUNTER SKILLS
+text.vampirism.skill.ihunterplayer=Zostań łowcą
+text.vampirism.skill.hunter_attack_speed=Wzrost szybkości ataku
+text.vampirism.skill.weapon_table=Stół broni łowcy
+text.vampirism.skill.weapon_table.desc=Dowiedz się jak używać stołu broni łowcy
+text.vampirism.skill.double_crossbow=Podwój to
+text.vampirism.skill.double_crossbow.desc=Odblokuj podwójną kuszę
+text.vampirism.skill.enhanced_crossbow=Wzmocnione kusze
+text.vampirism.skill.enhanced_crossbow.desc=Dowiedz się jak wzmocnić twoje kusze
+text.vampirism.skill.hunter_advanced_attack_speed=Atakuj szybko jak wiatr
+text.vampirism.skill.hunter_advanced_attack_speed.desc=Zwiększ szybkość twoich ataków jeszcze bardziej
+text.vampirism.skill.stake1=Jak używać kołka
+text.vampirism.skill.stake1.desc=Natychmiast zabija każdego wampira poniżej %s procent jego maksymalnego zdrowia przy użyciu kołka
+text.vampirism.skill.stake2=Jak właściwie używać kołka
+text.vampirism.skill.stake2.desc_all=Natychmiast zabija każdego wampira od tyłu przy użyciu kołka tak długo, dopóki jego maksymalne zdrowie jest poniżej %s
+text.vampirism.skill.stake2.desc_npc=Natychmiast zabija każdego wampira NPC od tyłu przy użyciu kołka tak długo, dopóki jego maksymalne zdrowie jest poniżej %s
+text.vampirism.skill.blood_potion_table=Stół krwawych mikstur
+text.vampirism.skill.blood_potion_table.desc=Dowiedz się, jak używać stołu krwawych mikstur, żeby warzyć mikstury z wampirzej krwi
+text.vampirism.skill.blood_potion_good_or_bad=Dobry czy zły?
+text.vampirism.skill.blood_potion_good_or_bad.desc=Dowiedz się, jak wiele negatywnych efektów mają twoje krwawe mikstury
+text.vampirism.skill.blood_potion_less_bad=Ulepszona alchemia
+text.vampirism.skill.blood_potion_less_bad.desc=Niższa szansa na negatywne efekty
+text.vampirism.skill.blood_potion_category_hint=Doświadczony statyw alchemiczny
+text.vampirism.skill.blood_potion_category_hint.desc=Dostań wskazówkę jaki dodadtkowy efekt może mieć twój przedmiot
+text.vampirism.skill.blood_potion_faster_crafting=Szybkie warzenie
+text.vampirism.skill.blood_potion_duration=Ulepszona reakcja
+text.vampirism.skill.blood_potion_duration.desc=Twoje ciało reaguje lepiej na mikstury, przez co mają one dłuższe działanie
+text.vampirism.skill.blood_potion_portable_crafting=Warzenie w podróży
+text.vampirism.skill.blood_potion_portable_crafting.desc=Dowiedz się, jak warzyć krwawe mikstury bez stołu krwawych mikstur
+text.vampirism.skill.blood_potion_identify_some=Mistrz warzenia
+text.vampirism.skill.blood_potion_identify_some.desc=Poznaj niektóre efekty krwawych mikstur
+text.vampirism.skill.tech_weapons=Technologia
+text.vampirism.skill.tech_weapons.desc=Dowiedz się jak zbudować kilka zaawansowanych broni
+text.vampirism.skill.enhanced_armor=Ulepszono pancerz
+text.vampirism.skill.enhanced_weapons=Ulepszono bronie
+text.vampirism.skill.disguise_hunter.desc=Pozwala ci ukryć się przed potworami i stać się o wiele mniej widocznym dla innych graczy
+text.vampirism.skill.basic_alchemy=Podstawowa Alchemia
+text.vampirism.skill.basic_alchemy.desc=Dowiedz się jak używać Alchemicznego Kotła, by tworzyć niesamowite rzeczy.
+text.vampirism.skill.garlic_beacon=Odstraszanie wampirów
+text.vampirism.skill.garlic_beacon.desc=Dowiedz się jak stworzyć dyfuzor czosnku, aby utrzymać te wampiry z daleka.
+text.vampirism.skill.purified_garlic=Oczyszczony Czosnek
+text.vampirism.skill.purified_garlic.desc=Oczyść czosnek aby zwiększyć jego efekt. Zwiększysz tym siłę działania swojego dyfuzera.
+text.vampirism.skill.holy_water_enhanced=Ulepszona Woda Święcona
+text.vampirism.skill.holy_water_enhanced.desc=Stwórz ulepszoną Wodę Święconą zamiast zwykłej.
+text.vampirism.skill.garlic_beacon_improved=Ulepszono dyfuzor
+text.vampirism.skill.garlic_beacon_improved.desc=Naucz się wytwarzać dyfuzor czosnku o większym zasięgu
+
+#ACTIONS
+action.vampirism.cancel=Anuluj
+
+
+#VAMPIRE ACTIONS
+action.vampirism.vampire.bat_skill=Przełącz tryb nietoperza
+action.vampirism.vampire.freeze=Zamrożenie
+action.vampirism.vampire.invisibility=Niewidzialność
+action.vampirism.vampire.regen=Regeneracja
+action.vampirism.vampire.revive_fallen=Wskrzeszanie upadłych
+action.vampirism.vampire.summon_bats=Przyzwanie nietoperzy
+action.vampirism.vampire.teleport=Teleportacja
+action.vampirism.vampire.vampire_rage=Wampirza ranga
+action.vampirism.vampire.sunscreen=Ochrona przed słońcem
+action.vampirism.vampire.disguise=Przebranie
+
+#HUNTER ACTIONS
+action.vampirism.hunter.disguise=Przebranie
+
+#BLOOD POTIONS
+text.vampirism.blood_potion.might_cause=Może powodować:
+text.vampirism.blood_potion.any_effect=Żadnych specjalnych efektów
+text.vampirism.blood_potion.category.normal_body_boost=Ulepszona kondycja
+text.vampirism.blood_potion.category.special_body_boost=Bardzo ulepszona kondycja
+text.vampirism.blood_potion.category.normal_vampire_skills=Umiejętności wampira
+text.vampirism.blood_potion.category.special_vampire_skills=Specjalne umiejętności wampira
+text.vampirism.blood_potion.category.bad_others=Nieobliczalny negatywny efekt
+
+
+#ENTITIES
+entity.vampirism.hunter_trainer.name=Trener łowcy wampirów
+entity.vampirism.advanced_vampire.name=Zaawansowany wampir
+entity.vampirism.advanced_hunter.name=Zaawansowany łowca
+entity.vampirism.hunter_villager.name=Agresywny wieśniak
+entity.vampirism.vampire_hunter.name=Łowca wampirów
+entity.vampirism.vampire.name=Wampir
+entity.vampirism.ghost.name=Duch
+entity.vampirism.vampire_baron.name=Baron wampirów
+entity.vampirism.vampire_minion_r.name=Wampirzy sługus
+entity.vampirism.vampire_minion_s.name=Wampirzy sługus
+entity.vampirism.blinding_bat.name=Nietoperz
+entity.vampirism.dracula.name=Drakula
+entity.vampirism.dead_mob.name=Martwy mob
+entity.vampirism.portal_guard.name=Strażnik portalu
+entity.vampirism.converted_villager.name=Wieśniak wampir
+text.vampirism.entity_level=Poziom
+entity.villager.vampire_hunter=Alchemiczny kapłan
+
+#RITUALS
+text.vampirism.ritual_missing_items=Brakuje %s z %s do tego rytuału
+text.vampirism.ritual_night_only=Możesz odprawić ten rytuał wyłącznie w nocy
+text.vampirism.trainer_level_wrong=Ten trener nie może szkolić cię na twoim poziomie
+
+#BLOCKS
+tile.vampirism.hunter_table.name=Stół badawczy łowcy
+tile.vampirism.castle_block.name=Blok zamku
+tile.vampirism.castle_block.dark_stone=Ciemny Kamień
+tile.vampirism.castle_block.normal_brick=Kamienna Cegła
+tile.vampirism.castle_block.dark_brick=Ciemna Kamienna Cegła
+tile.vampirism.castle_block.purple_brick=Fioletowa Kamienna Cegła
+
+tile.vampirism.cursed_earth.name=Przeklęta ziemia
+tile.vampirism.altar_infusion.name=Ołtarz infuzji
+tile.vampirism.altar_pillar.name=Kolumna ołtarzu
+tile.vampirism.altar_tip.name=Końcówka ołtarzu
+tile.vampirism.altar_inspiration.name=Ołtarz inspiracji
+tile.vampirism.tent.name=Namiot
+tile.vampirism.church_altar.name=Ołtarz oczyszczenia
+tile.vampirism.blood_container.name=Krwawy kontener
+tile.vampirism.med_chair.name=Krzesło zastrzyków
+tile.vampirism.vampire_orchid.name=Wampirza orchidea
+tile.vampirism.fire_place.name=Kominek
+tile.vampirism.weapon_table.name=Stół broni łowcy
+tile.vampirism.weapon_table.cannot_use=Nie nauczyłeś się jak z tego korzystać
+tile.vampirism.blood_potion_table.name=Stół krwawych mikstur
+tile.vampirism.blood_potion_table.cannot_use=Nie nauczyłeś się jak z tego korzystać
+tile.vampirism.sunscreen_beacon.name=Magiczna latarnia ochrony przed słońcem
+tile.vampirism.sunscreen_beacon.tooltip1=Tylko w trybie kreatywnym.
+tile.vampirism.sunscreen_beacon.tooltip2=Daje ochronę przeciwsłoneczną dla graczy wampirów w promieniu %s zasięgu bloku, od podłoża do nieba.
+tile.vampirism.alchemical_fire.name=Alchemiczny ogień
+tile.vampirism.alchemical_cauldron.other=Ten kocioł należy do %s. Nie powinieneś go używać.
+tile.vampirism.alchemical_cauldron.name=Kocioł alchemiczny
+tile.vampirism.alchemical_cauldron.cannot_use=Nie nauczyłeś się jak z tego korzystać
+tile.vampirism.garlic_beacon.name=Dyfuzor Czosnku
+tile.vampirism.garlic_beacon.improved=Ulepszono
+tile.vampirism.garlic_beacon.weak=Słabe
+tile.vampirism.garlic_beacon.already_fueled=Już napędzany
+tile.vampirism.garlic_beacon.tooltip1=Rozprasza cząstki czosnku.
+
+#ITEMS
+item.vampirism.hunter_intel.name=Tajne informacje łowcy
+text.vampirism.for_level=na poziom
+item.vampirism.injection.name=Strzykawka
+item.vampirism.injection.garlic.name=Zastrzyk czosnku
+item.vampirism.injection.sanguinare.name=Krwawy zastrzyk
+item.vampirism.item_tent.name=Namiot
+item.vampirism.item_coffin.name=Trumna
+item.vampirism.item_garlic.name=Czosnek
+item.vampirism.item_med_chair.name=Krzesło zastrzyków
+item.vampirism.battle_axe.name=Topór bojowy
+item.vampirism.crossbow_arrow.name=Strzała kusznicza
+item.vampirism.crossbow_arrow.vampire_killer.tooltip=Natychmiast zabija niskopoziomowych wampirów NPC.
+item.vampirism.crossbow_arrow.vampire_killer.name=Strzała zabójcy wampirów
+item.vampirism.crossbow_arrow.spitfire.name=Ogniste splunięcie 
+item.vampirism.crossbow_arrow.spitfire.tooltip=Tworzy alchemiczny ogień przy uderzeniu
+item.vampirism.basic_crossbow.name=Kusza
+item.vampirism.enhanced_crossbow.name=Wzmocniona kusza
+item.vampirism.basic_double_crossbow.name=Podwójna kusza
+item.vampirism.enhanced_double_crossbow.name=Wzmocniona podwójna kusza
+item.vampirism.stake.name=Kołek
+item.vampirism.vampire_blood_bottle.name=Krew wampira
+item.vampirism.blood_potion.name=Krwawa mikstura
+item.vampirism.basic_tech_crossbow.name=Półautomatyczna kusza
+item.vampirism.enhanced_tech_crossbow.name=Wzmocniona półautomatyczna kusza
+item.vampirism.tech_crossbow_ammo_package.name=Kołczan
+item.vampirism.tech_crossbow_ammo_package.tooltip=Może być użyta do wypełnienia %s
+item.vampirism.vampires_fear.name=Postrach wampirów
+item.vampirism.blood_bottle.name=Butelka krwi
+item.vampirism.vampire_fang.name=Kieł wampira
+item.vampirism.pitchfork.name=Widły
+item.vampirism.human_heart.name=Serce człowieka
+item.vampirism.torch.name=Pochodnia
+item.vampirism.pure_blood.name=Czysta krew
+item.vampirism.sunscreen.name=Ochrona przed słońcem
+item.vampirism.leech_sword.name=Pijawka
+item.vampirism.coffin.name=Trumna
+item.vampirism.vampire_armor_helmet.name=Wampirzy hełm
+item.vampirism.vampire_armor_leggings.name=Wampirze spodnie
+item.vampirism.vampire_armor_boots.name=Wampirze buty
+item.vampirism.vampire_armor_chestplate.name=Wampirzy napierśnik
+item.vampirism.minion_name_tag.name=Sługusowy znacznik
+item.vampirism.gem_of_binding.name=Klejnot Przywiązania
+item.vampirism.blood_eye.name=Krwawe oko
+item.vampirism.weak_vampire_fang.name=Kieł słabego wampira
+item.vampirism.weak_human_heart.name=Serce słabego człowieka
+item.vampirism.concentrated_garlic.name=Stężony czosnek
+item.vampirism.garlic_bomb.name=Bomba czosnkowa
+item.vampirism.vampire_book.name=Księga wampirów
+item.vampirism.armor_of_swiftness.head.name=Hełm szybkości
+item.vampirism.armor_of_swiftness.chest.name=Napierśnik szybkości 
+item.vampirism.armor_of_swiftness.legs.name=\ Nogawice szybkości
+item.vampirism.armor_of_swiftness.feet.name=Buty szybkości
+item.vampirism.hunter_hat0.head.name=Kapelusz łowcy
+item.vampirism.hunter_hat1.head.name=Kapelusz łowcy
+item.vampirism.hunter_axe.name=Topór tropiciela
+item.vampirism.item_alchemical_fire.name=Alchemiczny ogień
+item.vampirism.purified_garlic.name=Oczyszczony Czosnek
+
+#KEYS
+keys.vampirism.select_skills=Wybierz umiejętność
+keys.vampirism.action=Użyj akcji
+keys.vampirism.blood_potion_crafting=Przenośne tworzenie krwawych mikstur
+keys.vampirism.category=Vampirism
+keys.vampirism.suck=Ssanie krwi
+keys.vampirism.auto=Automatyczne wypełnianie butelki krwi
+keys.vampirism.vision=Przełącz wizje
+
+
+#ADVANCEMENTS
+advancement.vampirism.become_vampire=Zdobądź kilka kłów
+advancement.vampirism.become_vampire.desc=Przemień się w wampira
+advancement.vampirism.become_hunter=Rozpocznij polowanie
+advancement.vampirism.become_hunter.desc=Zostań łowcą wampirów
+
+
+#POTIONS
+effect.vampirism.sunscreen=Ochrona przed słońcem
+effect.vampirism.thirst=Pragnienie
+effect.vampirism.saturation=Nasycenie
+effect.vampirism.sanguinare=Wampiryzm
+effect.vampirism.garlic=Czosnek
+
+#FLUIDS
+
+#GUI
+gui.vampirism.hunter_weapon_table=Stół broni łowcy
+gui.vampirism.hunter_weapon_table.level=Wymagany poziom łowcy: %s
+gui.vampirism.hunter_weapon_table.skill=Wymagana umiejętność: %s
+gui.vampirism.blood_potion_table.create=Rozpocznij tworzenie
+gui.vampirism.revertback.head=Przywrócenie do zwykłego człowieka
+gui.vampirism.revertback.desc=Stracisz wszystkie poziomy i zginiesz
+gui.vampirism.reset_skills.title=Zeruj umiejętności
+gui.vampirism.alchemical_cauldron.level=Wymagany poziom łowcy: %s
+gui.vampirism.alchemical_cauldron.skill=Wymagana umiejętność: %s
+
+#COMMANDS
+command.vampirism.base.level.faction_not_found=Nie znaleziono odłamu %s
+commands.vampirism.failed_to_execute=Nie można wykonać polecenia. Błąd wewnętrzny.
+command.vampirism.base.vampire_biome.searching=Poszukuję Lasu Wampirów. Proszę czekać
+command.vampirism.base.vampire_biome.not_found=Nie znaleziono Lasu Wampirów.
+
+#ENCHANMENTS
+
+#ETC
+text.vampirism.vampire=Wampir
+text.vampirism.vampires=Wampiry
+text.vampirism.all=Wszystkie
+text.vampirism.hunter=Łowca
+text.vampirism.hunters=Łowca
+text.vampirism.level=Poziom
+text.vampirism.level_up=Kolejny Poziom
+text.vampirism.can_only_be_used_by=To może być użyte tylko przez %s graczy
+text.vampirism.can_only_be_used_by_level=To może być użyte tylko przez %s graczy z poziomem %s lub wyższym
+text.vampirism.med_chair_other_faction=Nie możesz zostać łowcą od kiedy jesteś już %s
+text.vampirism.can_only_be_used_with_skill=To może być użyte wyłącznie z umiejętnością: %s
+text.vampirism.need_item_to_use=Potrzebujesz %s, żeby tego użyć
+text.vampirism.immune_to=Jesteś odporny na
+text.vampirism.required_skill=Wymagana umiejętność: %s
+text.vampirism.from_behind=Od tyłu.
+text.vampirism.unknown=Nieznane
+text.vampirism.basic_hunter.cannot_train_you_any_further=Nie mogę cię szkolić ani chwili dłużej
+text.vampirism.basic_hunter.pay_n_vampire_blood_more=Proszę, zapłać mi %s butelek wampirzej krwi więcej, żebym cię szkolił
+text.vampirism.basic_hunter.i_will_train_you=W porządku, będę cię szkolił
+text.vampirism.i_am_busy_right_now=Jestem teraz zajęty
+text.vampirism.crossbow.not_loaded=Nie załadowana
+text.vampirism.crossbow.loaded_arrow_count=Załadowano %s strzał
+itemGroup.vampirism=Vampirism
+death.attack.sun=%1$s nie lubi słońca
+death.attack.garlic=%1$s został otruty przez czosnek
+text.vampirism.skill.level_to_low=Twój poziom wampira jest na to zbyt niski
+text.vampirism.skill.cooldown_not_over=Poczekaj, dopóki trwa czas oczekiwania
+text.vampirism.ritual_missing_times=Brakuje ci rzeczy na ten rytuał
+text.vampirism.ritual_structure_wrong=Układ jest niewłaściwy dla tego rytuału
+text.vampirism.ritual_level_wrong=Nie możesz użyć tego ołtarza na tym poziomie
+text.vampirism.ritual_still_running=Rytuał nadal trwa
+text.vampirism.not_enough_blood=Nie ma wystarczająco dużo krwi w ołtarzu
+text.vampirism.ritual_requirements_not_met=Nie wszystkie wymagania dla tego rytuału zostały spełnione
+text.vampirism.purity=Czystość
+text.vampirism.ritual_no_vampire=Musisz być wampirem dla tego rytuału
+text.vampirism.cant_fly_day=Nie możesz latać podczas dnia
+text.vampirism.no_more_minions=Nie jesteś zdolny do posiadania więcej sługusów
+text.vampirism.coffin.no_sleep=Możesz spać tylko podczas dnia
+text.vampirism.coffin.occupied=Ta trumna jest zajęta
+text.vampirism.coffin.stopsleeping=Opuść trumnę
+text.vampirism.coffin.cant_use=Nie możesz spać w trumnie
+text.vampirism.blood_left=Utrata krwi
+text.vampirism.blood=Krew
+text.vampirism.vampirelevel=Poziom wampira
+text.vampirism.entitysblood=Krew wrogów
+text.vampirism.minion=Sługus
+text.vampirism.normal_vision=Zwykła wizja
+text.vampirism.night_vision=Nocna wizja
+text.vampirism.no_control_minion=Nie masz kontroli nad tym sługusem
+text.vampirism.need_empty_bottle=Mój władco, potrzebuję pustej butelki, by zebrać krew
+text.vampirism.thanks=Dziękuję
+text.vampirism.coming_back=Wracam, mój władco
+text.vampirism.sorry_i_died_while_doing=Mój władco, wybacz mi, ale zginąłem podczas wypełniania twojego zadania
+text.vampirism.current_task=Obecne zadanie
+text.vampirism.lord.become=Jesteś przeniesiony do Władcy Wampirów
+text.vampirism.lord.other_player_become=pokonał obecnego Władcę Wampirów i zastąpił go
+text.vampirism.lord.vampire_replace=Inny gracz zastąpił cię jako Władca Wampirów
+text.vampirism.lord.vampire_kill_replace=Inny wampir zabił cię i zastąpił cię jako Władca Wampirów
+text.vampirism.lord.new_lord_castle=Nowy Władca Wampirów powstał i przenosi się do swojego zamku
+text.vampirism.lord.vampire_replace_absence=Inny wampir zastąpił cię jako Władca Wampirów podczas twojej nieobecności
+text.vampirism.lord.portal_disabled=Ten portal nigdzie nie prowadzi
+text.vampirism.lord.level_to_low=Twój poziom wampira jest zbyt niski, żeby zostać Władcą Wampirów
+text.vampirism.guard_stay_away_level_low=Twój poziom wampira jest zbyt niski, żeby podróżować do zamku Drakuli. Trzymaj się z dala od niego!
+text.vampirism.coffin.wrong_dimension=Nie możesz spać w tym wymiarze.
+
+
+text.vampirism.castle_fail=Vampirism nie był zdolny, żeby znaleźć właściwą pozycję dla Zamku Wampirów. Zalecane jest stworzenie nowego świata. Możesz również spróbować "/vampirism checkForVampireBiome", jeżeli biom nie zostanie znaleziony, inna modyfikacja zapewne ingeruje w Wampiryzm.
+text.vampirism.structure=Struktura
+text.vampirism.pillar_blocks=Blok filaru
+text.vampirism.no_dracula_to_call=Drakula zginął i nie może być nazywany
+text.vampirism.garlic_weapons=Broń ta jest pokryta z czosnkiem i zatruwa wampiry./nAle czosnek słabnie.
+text.vampirism.outdated=Używasz Vampirism %s, najnowsza wersja to %s.
+text.vampirism.update_message=["Click for... [",{"text":"Pobierz","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Kliknij to, by przejść na stronę pobrań","color":"green"}},"clickEvent":{"action":"open_url","value":"@download@"}},"] [",{"text":"Strona","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Kliknij to, by przejśc stronę forum moda","color":"green"}},"clickEvent":{"action":"open_url","value":"@forum@"}},"] [",{"text":"Dziennik zmian","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Kliknij, by zobaczyć dziennik zmian tej wersji","color":"green"}},"clickEvent":{"action":"run_command","value":"/vampirism changelog"}},"]"]
+text.vampirism.action.cooldown_not_over=Czas oczekiwania jeszcze się nie skończył
+
+#MINION COMMANDS
+minioncommand.vampirism.attackhostilenoplayers=Atakuj wrogów
+minioncommand.vampirism.attackhostile=Atakowuj wrogów włączając graczy
+minioncommand.vampirism.collectblood=Zbierz krew
+minioncommand.vampirism.defendlord=Chroń Władcę
+minioncommand.vampirism.stayhere=Stój tutaj
+minioncommand.vampirism.comeback=Wracaj (odległe sługusy)
+minioncommand.vampirism.justfollow=Tylko podążaj za mną
+minioncommand.vampirism.converttosaveable=Weź Klejnot Przywiązania z powrotem
+minioncommand.vampirism.defendarea=Chroń obszar
+
+#CONFIG
+category.vampirism.balance=Ustawienia bilansu
+category.vampirism.balance.tooltip=Zmień prawie każdy bilans dotyczący majątku
+category.vampirism.balance_vampire_player_skills.tooltip=Skonfiguruj Umiejętności
+category.vampirism.balance_hunter_player_skills.tooltip=Skonfiguruj Umiejętności
+category.vampirism.balance_mob_prop.tooltip=Zmień posiadłości mobów dodane przez Wampiryzm
+category.vampirism.balance_village=Posiadłości Wioski Wampirów
+category.vampirism.balance_village.tooltip=Zmień sposób w jaki łowcy w wioskach postępują i dostosowują inne wioski powiązanymi rzeczami
+category.vampirism.disable.tooltip=Wyłącz części modyfikacji (nie zalecane)
+
+

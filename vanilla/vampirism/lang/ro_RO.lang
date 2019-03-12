@@ -1,0 +1,62 @@
+#X-Generator: crowdin.com
+#SKILLS
+
+
+#VAMPIRE SKILLS
+text.vampirism.skill.blood_charge=Încarcător de Sânge
+text.vampirism.skill.blood_charge.desc=Încarcăți sângele folosind unelte apăsând sneak și clic dreapta.
+text.vampirism.skill.sword_finisher=Executător
+text.vampirism.skill.sword_finisher.desc=Omoară instant pe oricine care nu este un vampir care are %s viață maximă folosind o sabie de vampir
+
+#HUNTER SKILLS
+text.vampirism.command.available_subcommands=Subcomenzi disponibile:
+text.vampirism.command.subcommand_help=Utilizarea '/%s help <subcommand>' pentru a obține mai multe informații
+text.vampirism.command.usage=/%s<subcommand><params> | Folosește /%s help pentru a primii toate subcomenzile disponibile
+
+#ACTIONS
+text.vampirism.action.not_unlocked=Această acţiune nu este deblocată
+text.vampirism.action.deactivated_by_serveradmin=Această acţiune este dezactivată de un serveradmin
+text.vampirism.action.not_bound=Nicio acţiune este legată la această cheie. A se vedea %s.
+
+
+#VAMPIRE ACTIONS
+
+#HUNTER ACTIONS
+
+#BLOOD POTIONS
+
+
+#ENTITIES
+
+#RITUALS
+
+#BLOCKS
+
+
+#ITEMS
+
+#KEYS
+
+
+#ADVANCEMENTS
+
+
+#POTIONS
+
+#FLUIDS
+
+#GUI
+
+#COMMANDS
+
+#ENCHANMENTS
+
+#ETC
+
+
+
+#MINION COMMANDS
+
+#CONFIG
+
+

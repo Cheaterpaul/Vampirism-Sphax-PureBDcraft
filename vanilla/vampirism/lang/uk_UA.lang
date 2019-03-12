@@ -1,0 +1,105 @@
+#X-Generator: crowdin.com
+#SKILLS
+text.vampirism.skills.gui_title=Ваші навички
+text.vampirism.skill.resetall=Скинути навички
+text.vampirism.skill.unlocked=Розблокована
+text.vampirism.skill.unlocks_action=Розблокування дії
+text.vampirism.skill.unlock_parent_first=Розблокувати спершу батьківске вміння
+text.vampirism.skill.skills_reset=Ваші навички були скинуті
+
+
+#VAMPIRE SKILLS
+text.vampirism.skill.ivampireplayer=Стати вампіром
+text.vampirism.skill.avoided_by_creepers=Уникати кріперів
+text.vampirism.skill.blood_vision=Кровавий зір
+text.vampirism.skill.blood_vision.desc=Дає змогу бачити осіб через стіни в темряві. 
+text.vampirism.skill.poisonous_bite=Отруйні клики
+text.vampirism.skill.poisonous_bite.desc=Отруює істот яких ві кусаєте
+text.vampirism.skill.more_bite_damage=Загартован клики
+text.vampirism.skill.disguise=Маскування
+text.vampirism.skill.vampire_forest_fog=Перспектива
+text.vampirism.skill.vampire_forest_fog.desc=Збільшити відстань туману в лісі вампірів
+text.vampirism.skill.water_resistance=Супротив воді
+
+#HUNTER SKILLS
+text.vampirism.skill.blood_potion_good_or_bad=Добре чи погано?
+text.vampirism.skill.blood_potion_less_bad=Покращена пивоваріння
+text.vampirism.command.available_subcommands=Доступні підкоманди:
+text.vampirism.command.subcommand_help=Використайте '/%s help <subcommand>' щоб отримати більше інформації
+text.vampirism.command.usage=/%s <subcommand><params>| Використовуйте довідку з /%s help щоб отримати всі доступні підкоманди
+
+#ACTIONS
+action.vampirism.cancel=Відмінити
+
+
+#VAMPIRE ACTIONS
+action.vampirism.vampire.freeze=Замерзнути
+action.vampirism.vampire.invisibility=Невидимість
+action.vampirism.vampire.teleport=Телепорт
+action.vampirism.vampire.disguise=Маскування
+
+#HUNTER ACTIONS
+action.vampirism.hunter.disguise=Маскування
+
+#BLOOD POTIONS
+
+
+#ENTITIES
+
+#RITUALS
+
+#BLOCKS
+tile.vampirism.castle_block.dark_stone=Темний камінь
+tile.vampirism.castle_block.normal_brick=Кам'яна цеглина
+tile.vampirism.castle_block.dark_brick=Темна Кам'яна Цеглина
+tile.vampirism.castle_block.purple_brick=Фіолетова Кам'яна Цеглина
+tile.vampirism.castle_block.vampire_spawn=Лише вампіри можуть з'являтись тут
+
+
+#ITEMS
+
+#KEYS
+
+
+#ADVANCEMENTS
+advancement.vampirism.vampire_forest=Ліс Вапірів
+
+
+#POTIONS
+
+#FLUIDS
+
+#GUI
+gui.vampirism.reset_skills.title=Скинути навички
+
+#COMMANDS
+command.vampirism.base.eye.success=Успішна зміна очей на %s
+command.vampirism.base.fang.success=Успішна зміна Fang на %s
+command.vampirism.base.vampire_biome.disabled=Біом Вампірів вимкнений у файлі конфігурації
+command.vampirism.base.debug.true=Увімкнений режим налагодження
+command.vampirism.base.debug.false=Вимкнутий режим налагодження
+command.vampirism.test.gen_debug.true=Ввімкнене налагодження Генераціх світу
+command.vampirism.test.gen_debug.false=Вимкнуте налагодження Генераціх світу
+
+#ENCHANMENTS
+
+#ETC
+
+
+
+#MINION COMMANDS
+
+#CONFIG
+category.vampirism.balance_general=Загальні
+category.vampirism.balance_general.tooltip=Загальні налаштування
+category.vampirism.balance_vampire_player_skills.tooltip=Настроювання навичок
+category.vampirism.balance_vampire_player_actions=Дії гравця Вампіра
+category.vampirism.balance_vampire_player_actions.tooltip=Конфігурація
+category.vampirism.balance_hunter_player_skills.tooltip=Настроювання навичок
+category.vampirism.balance_hunter_player_actions.tooltip=Конфігурація
+category.vampirism.disable=Вимкнення функції
+category.vampirism.village=Село конфігурації
+category.vampirism.gui=Конфігурації інтерфейса
+category.vampirism.gui.tooltip=Настроювання дисплея
+
+

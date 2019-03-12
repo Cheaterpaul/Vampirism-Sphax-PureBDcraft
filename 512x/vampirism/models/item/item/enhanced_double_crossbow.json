@@ -1,0 +1,7 @@
+{
+  "parent": "vampirism:item/item/double_crossbow",
+  "textures": {
+    "texture_main": "blocks/iron_block",
+	"anvil": "blocks/anvil_top_damaged_0"
+  }
+}
