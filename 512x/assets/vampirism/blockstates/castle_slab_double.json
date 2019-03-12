@@ -13,24 +13,18 @@
       },
       "purple_brick": {
         "textures": {
-          "particle": "vampirism:blocks/castle_block_purple_brick",
-          "down": "vampirism:blocks/castle_block_purple_slab",
-          "up": "vampirism:blocks/castle_block_purple_slab",
-          "north": "vampirism:blocks/castle_block_purple_brick",
-          "east": "vampirism:blocks/castle_block_purple_brick",
-          "south": "vampirism:blocks/castle_block_purple_brick",
-          "west": "vampirism:blocks/castle_block_purple_brick"
+          "all": "vampirism:blocks/castle_block_purple_brick"
         }
       },
       "dark_stone": {
         "textures": {
-          "all": "vampirism:blocks/castle_block_dark_slab",
+          "particle": "vampirism:blocks/castle_block_dark_slab",
           "down": "vampirism:blocks/castle_block_dark_slab",
           "up": "vampirism:blocks/castle_block_dark_slab",
-          "north": "vampirism:blocks/castle_block_dark_stone",
-          "east": "vampirism:blocks/castle_block_dark_stone",
-          "south": "vampirism:blocks/castle_block_dark_stone",
-          "west": "vampirism:blocks/castle_block_dark_stone"
+          "north": "vampirism:blocks/castle_block_dark_slab_side",
+          "east": "vampirism:blocks/castle_block_dark_slab_side",
+          "south": "vampirism:blocks/castle_block_dark_slab_side",
+          "west": "vampirism:blocks/castle_block_dark_slab_side"
         }
       }
     },

@@ -13,8 +13,8 @@
       },
       "purple_brick": {
         "textures": {
-          "bottom": "vampirism:blocks/castle_block_purple_slab",
-          "top": "vampirism:blocks/castle_block_purple_slab",
+          "bottom": "vampirism:blocks/castle_block_purple_brick",
+          "top": "vampirism:blocks/castle_block_purple_brick",
           "side": "vampirism:blocks/castle_block_purple_brick"
         }
       },
@@ -22,7 +22,7 @@
         "textures": {
           "bottom": "vampirism:blocks/castle_block_dark_slab",
           "top": "vampirism:blocks/castle_block_dark_slab",
-          "side": "vampirism:blocks/castle_block_dark_stone"
+          "side": "vampirism:blocks/castle_block_dark_slab_side"
         }
       }
     },
