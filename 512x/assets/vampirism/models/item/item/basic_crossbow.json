@@ -1,7 +1,0 @@
-{
-  "parent": "vampirism:item/item/crossbow",
-  "textures": {
-    "texture_main": "blocks/planks_birch",
-	"anvil": "blocks/anvil_top_damaged_0"
-  }
-}
