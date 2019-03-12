@@ -1,0 +1,312 @@
+{
+	"__comment": "Designed by Cheaterpaul ",
+	"textures": {
+		"blood": "vampirism:blocks/vampirismblood_still"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 3, 4, 6 ],
+			"to": [ 13, 8, 10 ],
+			"faces": {
+				"down": { "uv": [ 3, 6, 13, 10 ], "texture": "#blood" },
+				"up": { "uv": [ 3, 6, 13, 10 ], "texture": "#blood" },
+				"north": { "uv": [ 3, 8, 13, 12 ], "texture": "#blood" },
+				"south": { "uv": [ 3, 8, 13, 12 ], "texture": "#blood" },
+				"west": { "uv": [ 6, 8, 10, 12 ], "texture": "#blood" },
+				"east": { "uv": [ 6, 8, 10, 12 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3, 5, 5 ],
+			"to": [ 13, 8, 6 ],
+			"faces": {
+				"down": { "uv": [ 3, 10, 13, 11 ], "texture": "#blood" },
+				"up": { "uv": [ 3, 5, 13, 6 ], "texture": "#blood" },
+				"north": { "uv": [ 3, 8, 13, 11 ], "texture": "#blood" },
+				"south": { "uv": [ 3, 8, 13, 11 ], "texture": "#blood" },
+				"west": { "uv": [ 5, 8, 6, 11 ], "texture": "#blood" },
+				"east": { "uv": [ 10, 8, 11, 11 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3, 5, 10 ],
+			"to": [ 13, 8, 11 ],
+			"faces": {
+				"down": { "uv": [ 3, 5, 13, 6 ], "texture": "#blood" },
+				"up": { "uv": [ 3, 10, 13, 11 ], "texture": "#blood" },
+				"north": { "uv": [ 3, 8, 13, 11 ], "texture": "#blood" },
+				"south": { "uv": [ 3, 8, 13, 11 ], "texture": "#blood" },
+				"west": { "uv": [ 10, 8, 11, 11 ], "texture": "#blood" },
+				"east": { "uv": [ 5, 8, 6, 11 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3, 6, 4 ],
+			"to": [ 13, 8, 5 ],
+			"faces": {
+				"down": { "uv": [ 3, 11, 13, 12 ], "texture": "#blood" },
+				"up": { "uv": [ 3, 4, 13, 5 ], "texture": "#blood" },
+				"north": { "uv": [ 3, 8, 13, 10 ], "texture": "#blood" },
+				"south": { "uv": [ 3, 8, 13, 10 ], "texture": "#blood" },
+				"west": { "uv": [ 4, 8, 5, 10 ], "texture": "#blood" },
+				"east": { "uv": [ 11, 8, 12, 10 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3, 6, 11 ],
+			"to": [ 13, 8, 12 ],
+			"faces": {
+				"down": { "uv": [ 3, 4, 13, 5 ], "texture": "#blood" },
+				"up": { "uv": [ 3, 11, 13, 12 ], "texture": "#blood" },
+				"north": { "uv": [ 3, 8, 13, 10 ], "texture": "#blood" },
+				"south": { "uv": [ 3, 8, 13, 10 ], "texture": "#blood" },
+				"west": { "uv": [ 11, 8, 12, 10 ], "texture": "#blood" },
+				"east": { "uv": [ 4, 8, 5, 10 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 3, 6 ],
+			"to": [ 12, 4, 10 ],
+			"faces": {
+				"down": { "uv": [ 4, 6, 12, 10 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 6, 12, 10 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 12, 12, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 12, 12, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 4, 5 ],
+			"to": [ 12, 5, 6 ],
+			"faces": {
+				"down": { "uv": [ 4, 10, 12, 11 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 5, 12, 6 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 11, 12, 12 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 11, 12, 12 ], "texture": "#blood" },
+				"west": { "uv": [ 5, 11, 6, 12 ], "texture": "#blood" },
+				"east": { "uv": [ 10, 11, 11, 12 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 4, 10 ],
+			"to": [ 12, 5, 11 ],
+			"faces": {
+				"down": { "uv": [ 4, 5, 12, 6 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 10, 12, 11 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 11, 12, 12 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 11, 12, 12 ], "texture": "#blood" },
+				"west": { "uv": [ 10, 11, 11, 12 ], "texture": "#blood" },
+				"east": { "uv": [ 5, 11, 6, 12 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 5, 4 ],
+			"to": [ 12, 6, 5 ],
+			"faces": {
+				"down": { "uv": [ 4, 11, 12, 12 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 4, 12, 5 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 10, 12, 11 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 10, 12, 11 ], "texture": "#blood" },
+				"west": { "uv": [ 4, 10, 5, 11 ], "texture": "#blood" },
+				"east": { "uv": [ 11, 10, 12, 11 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 5, 11 ],
+			"to": [ 12, 6, 12 ],
+			"faces": {
+				"down": { "uv": [ 4, 4, 12, 5 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 11, 12, 12 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 10, 12, 11 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 10, 12, 11 ], "texture": "#blood" },
+				"west": { "uv": [ 11, 10, 12, 11 ], "texture": "#blood" },
+				"east": { "uv": [ 4, 10, 5, 11 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 6, 3 ],
+			"to": [ 12, 8, 4 ],
+			"faces": {
+				"down": { "uv": [ 4, 12, 12, 13 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 3, 12, 4 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 8, 12, 10 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 8, 12, 10 ], "texture": "#blood" },
+				"west": { "uv": [ 3, 8, 4, 10 ], "texture": "#blood" },
+				"east": { "uv": [ 12, 8, 13, 10 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 6, 12 ],
+			"to": [ 12, 8, 13 ],
+			"faces": {
+				"down": { "uv": [ 4, 3, 12, 4 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 12, 12, 13 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 8, 12, 10 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 8, 12, 10 ], "texture": "#blood" },
+				"west": { "uv": [ 12, 8, 13, 10 ], "texture": "#blood" },
+				"east": { "uv": [ 3, 8, 4, 10 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 3, 5 ],
+			"to": [ 11, 4, 6 ],
+			"faces": {
+				"down": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 5, 11, 6 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 5, 12, 6, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 10, 12, 11, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 3, 10 ],
+			"to": [ 11, 4, 11 ],
+			"faces": {
+				"down": { "uv": [ 5, 5, 11, 6 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 10, 12, 11, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 5, 12, 6, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 4, 4 ],
+			"to": [ 11, 5, 5 ],
+			"faces": {
+				"down": { "uv": [ 5, 11, 11, 12 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 4, 11, 5 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 11, 11, 12 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 11, 11, 12 ], "texture": "#blood" },
+				"west": { "uv": [ 4, 11, 5, 12 ], "texture": "#blood" },
+				"east": { "uv": [ 11, 11, 12, 12 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 4, 11 ],
+			"to": [ 11, 5, 12 ],
+			"faces": {
+				"down": { "uv": [ 5, 4, 11, 5 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 11, 11, 12 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 11, 11, 12 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 11, 11, 12 ], "texture": "#blood" },
+				"west": { "uv": [ 11, 11, 12, 12 ], "texture": "#blood" },
+				"east": { "uv": [ 4, 11, 5, 12 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 5, 3 ],
+			"to": [ 11, 6, 4 ],
+			"faces": {
+				"down": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 3, 11, 4 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"west": { "uv": [ 3, 10, 4, 11 ], "texture": "#blood" },
+				"east": { "uv": [ 12, 10, 13, 11 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 5, 12 ],
+			"to": [ 11, 6, 13 ],
+			"faces": {
+				"down": { "uv": [ 5, 3, 11, 4 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"west": { "uv": [ 12, 10, 13, 11 ], "texture": "#blood" },
+				"east": { "uv": [ 3, 10, 4, 11 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6, 3, 4 ],
+			"to": [ 10, 4, 5 ],
+			"faces": {
+				"down": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"up": { "uv": [ 6, 4, 10, 5 ], "texture": "#blood" },
+				"north": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 4, 12, 5, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 11, 12, 12, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6, 3, 11 ],
+			"to": [ 10, 4, 12 ],
+			"faces": {
+				"down": { "uv": [ 6, 4, 10, 5 ], "texture": "#blood" },
+				"up": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"north": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 11, 12, 12, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 4, 12, 5, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6, 4, 3 ],
+			"to": [ 10, 5, 4 ],
+			"faces": {
+				"down": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"up": { "uv": [ 6, 3, 10, 4 ], "texture": "#blood" },
+				"north": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"south": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"west": { "uv": [ 3, 11, 4, 12 ], "texture": "#blood" },
+				"east": { "uv": [ 12, 11, 13, 12 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6, 4, 12 ],
+			"to": [ 10, 5, 13 ],
+			"faces": {
+				"down": { "uv": [ 6, 3, 10, 4 ], "texture": "#blood" },
+				"up": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"north": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"south": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"west": { "uv": [ 12, 11, 13, 12 ], "texture": "#blood" },
+				"east": { "uv": [ 3, 11, 4, 12 ], "texture": "#blood" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 23, 0, 0 ],
+			"translation":  [ 0, 2.83, 0 ],
+			"scale":  [ 0.37, 0.37, 0.37 ]
+		},
+		"firstperson_righthand": {
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"gui": {
+			"rotation":  [ 35, 133, -1 ],
+			"translation":  [ 0, 1.89, 0 ],
+			"scale":  [ 0.65, 0.75, 0.65 ]
+		},
+		"ground": {
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		}
+	}
+}

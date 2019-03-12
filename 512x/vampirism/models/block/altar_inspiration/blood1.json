@@ -1,0 +1,91 @@
+{
+	"__comment": "Designed by Cheaterpaul ",
+	"textures": {
+		"blood": "vampirism:blocks/vampirismblood_still"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 3, 6 ],
+			"to": [ 12, 4, 10 ],
+			"faces": {
+				"down": { "uv": [ 4, 6, 12, 10 ], "texture": "#blood" },
+				"up": { "uv": [ 4, 6, 12, 10 ], "texture": "#blood" },
+				"north": { "uv": [ 4, 12, 12, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 4, 12, 12, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 3, 5 ],
+			"to": [ 11, 4, 6 ],
+			"faces": {
+				"down": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 5, 11, 6 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 5, 12, 6, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 10, 12, 11, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 3, 10 ],
+			"to": [ 11, 4, 11 ],
+			"faces": {
+				"down": { "uv": [ 5, 5, 11, 6 ], "texture": "#blood" },
+				"up": { "uv": [ 5, 10, 11, 11 ], "texture": "#blood" },
+				"north": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 5, 12, 11, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 10, 12, 11, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 5, 12, 6, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6, 3, 4 ],
+			"to": [ 10, 4, 5 ],
+			"faces": {
+				"down": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"up": { "uv": [ 6, 4, 10, 5 ], "texture": "#blood" },
+				"north": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 4, 12, 5, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 11, 12, 12, 13 ], "texture": "#blood" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6, 3, 11 ],
+			"to": [ 10, 4, 12 ],
+			"faces": {
+				"down": { "uv": [ 6, 4, 10, 5 ], "texture": "#blood" },
+				"up": { "uv": [ 6, 11, 10, 12 ], "texture": "#blood" },
+				"north": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"south": { "uv": [ 6, 12, 10, 13 ], "texture": "#blood" },
+				"west": { "uv": [ 11, 12, 12, 13 ], "texture": "#blood" },
+				"east": { "uv": [ 4, 12, 5, 13 ], "texture": "#blood" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 23, 0, 0 ],
+			"translation":  [ 0, 2.83, 0 ],
+			"scale":  [ 0.37, 0.37, 0.37 ]
+		},
+		"firstperson_righthand": {
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"gui": {
+			"rotation":  [ 35, 133, -1 ],
+			"translation":  [ 0, 1.89, 0 ],
+			"scale":  [ 0.65, 0.75, 0.65 ]
+		},
+		"ground": {
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		}
+	}
+}

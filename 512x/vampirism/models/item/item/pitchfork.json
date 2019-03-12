@@ -1,0 +1,116 @@
+{
+	"__comment": "Designed by Maxanier",
+	"ambientocclusion": false,
+	"textures": {
+		"wood": "blocks/planks_oak",
+		"iron": "blocks/iron_block"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 0.5 ],
+			"to": [ 1, 1, 11.87 ],
+			"rotation": { "origin": [ 0, 1, 0.5 ], "axis": "x", "angle": -45 },
+			"shade": false,
+			"faces": {
+				"down": { "uv": [ 7.5, 0, 9.5, 16 ], "texture": "#wood", "rotation": 180 },
+				"up": { "uv": [ 6.5, 0, 8.5, 16 ], "texture": "#wood" },
+				"north": { "uv": [ 8.5, 3, 10.5, 5 ], "texture": "#wood", "rotation": 270 },
+				"south": { "uv": [ 6, 0, 8, 16 ], "texture": "#wood", "rotation": 270 },
+				"west": { "uv": [ 6, 0, 8, 16 ], "texture": "#wood", "rotation": 270 },
+				"east": { "uv": [ 8.5, 0, 10.5, 16 ], "texture": "#wood", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 10.5, 7.5 ],
+			"to": [ 1, 11.5, 13.5 ],
+			"rotation": { "origin": [ 0, 11.5, 7.5 ], "axis": "x", "angle": 45 },
+			"shade": false,
+			"faces": {
+				"down": { "uv": [ 0, 3.207107, 1, 9.207107 ], "texture": "#iron" },
+				"up": { "uv": [ 0, 6.792893, 1, 12.79289 ], "texture": "#iron" },
+				"north": { "uv": [ 1, 4.207107, 0, 5.207107 ], "texture": "#iron" },
+				"south": { "uv": [ 0, 4.207107, 1, 5.207107 ], "texture": "#iron" },
+				"west": { "uv": [ 0, 0, 2, 16 ], "texture": "#iron", "rotation": 270 },
+				"east": { "uv": [ 0, 0, 2, 16 ], "texture": "#iron", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 10.48, 7.5 ],
+			"to": [ 1, 11.48, 13 ],
+			"rotation": { "origin": [ 0, 11.48, 7.5 ], "axis": "x", "angle": -45 },
+			"shade": false,
+			"faces": {
+				"down": { "uv": [ 0, 2.292893, 1, 7.792893 ], "texture": "#iron" },
+				"up": { "uv": [ 0, 8.207107, 1, 13.70711 ], "texture": "#iron" },
+				"north": { "uv": [ 1, 4.227107, 0, 5.227107 ], "texture": "#iron" },
+				"south": { "uv": [ 4.5, 0.5, 6.5, 2.5 ], "texture": "#iron" },
+				"west": { "uv": [ 2, 0, 16, 2.5 ], "texture": "#iron" },
+				"east": { "uv": [ 16, 16, 2, 13.5 ], "texture": "#iron" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 8.679999, 9.32 ],
+			"to": [ 1, 9.679999, 14.32 ],
+			"rotation": { "origin": [ 0, 9.68, 9.32 ], "axis": "x", "angle": -45 },
+			"shade": false,
+			"faces": {
+				"down": { "uv": [ 3, 5.5, 16, 8 ], "texture": "#iron", "rotation": 270 },
+				"up": { "uv": [ 3, 5.5, 16, 8 ], "texture": "#iron", "rotation": 90 },
+				"north": { "uv": [ 9.5, 9.500001, 8.5, 10.5 ], "texture": "#iron" },
+				"south": { "uv": [ 4.5, 0.5, 6.5, 2.5 ], "texture": "#iron" },
+				"west": { "uv": [ 16, 5.5, 3, 8 ], "texture": "#iron", "rotation": 180 },
+				"east": { "uv": [ 3, 5.5, 16, 8 ], "texture": "#iron", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 6.94, 11.02 ],
+			"to": [ 1, 7.94, 16.52 ],
+			"rotation": { "origin": [ 0, 7.94, 11.02 ], "axis": "x", "angle": -45 },
+			"shade": false,
+			"faces": {
+				"down": { "uv": [ 0, 0, 1, 4.272893 ], "texture": "#iron" },
+				"up": { "uv": [ 0, 11.72711, 1, 16 ], "texture": "#iron" },
+				"north": { "uv": [ 1, 7.767107, 0, 8.767107 ], "texture": "#iron" },
+				"south": { "uv": [ 4.5, 0.5, 6.5, 2.5 ], "texture": "#iron" },
+				"west": { "uv": [ 2, 13.5, 16, 16 ], "texture": "#iron" },
+				"east": { "uv": [ 16, 2.5, 2, 0 ], "texture": "#iron" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ -7, 1, 0 ],
+			"translation":  [ 10.39, 5.67, 4.54 ],
+			"scale":  [ 1.4, 1.6, 1.6 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -7, 1, 0 ],
+			"translation":  [ -10.39, 5.67, 4.54 ],
+			"scale":  [ 1.4, 1.6, 1.6 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ -77, 9, 24 ],
+			"translation":  [ 3.4, 1.7, -1.7 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ -77, 9, 24 ],
+			"translation":  [ -6.8, 1.7, 1.51 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 90, 0 ]
+		},
+		"ground": {
+			"translation":  [ 0, 1.7, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ -1.51, 0, 6.99 ]
+		}
+	}
+}
