@@ -1,0 +1,345 @@
+#X-Generator: crowdin.com
+#SKILLS
+text.vampirism.skills.gui_title=Οι δεξιωτητές σας
+text.vampirism.skills.points_left=%d πόντοι ικανότητας αριστερά
+text.vampirism.skill.resetall=Επαναφέρετε τις δεξιότητες
+text.vampirism.skill.unlocked=Ξεκλείδωτο
+text.vampirism.skill.unlocks_action=Ξεκλειδώνει δράση
+text.vampirism.skill.unlock_parent_first=Ξεκλειδώστε το προηγούμενο πρώτα
+text.vampirism.skill.skills_reset=Οι ικανότητές σας έχουν επαναφερθεί
+text.vampirism.skill.deactivated_by_serveradmin=Αυτή η ικανότητα είναι απενεργοποιημένη από τον διαχειριστή του σέρβερ σας
+
+
+#VAMPIRE SKILLS
+text.vampirism.skill.ivampireplayer=Nα γίνει ένας βρικόλακας
+text.vampirism.skill.avoided_by_creepers=Aποφεύγετε από τα creepers
+text.vampirism.skill.blood_vision=Όραση του αίματος
+text.vampirism.skill.blood_vision.desc=Σας επιτρέπει να δείτε οντότητες μέσα από τους τοίχους στο σκοτάδι. Εναλλαγή με το πλήκτρο.
+text.vampirism.skill.poisonous_bite=Δηλητηριώδες Δόντια
+text.vampirism.skill.poisonous_bite.desc=Δηλητηριάστε τα πλάσματα πού δαγκώνετε
+text.vampirism.skill.more_bite_damage=Σκληρυμένα Δόντια
+text.vampirism.skill.more_bite_damage.desc=Προκαλέστε μεγαλύτερη ζημιά όταν δαγκώνετε
+text.vampirism.skill.less_blood_thirst=Λιτός Βρυκόλακας
+text.vampirism.skill.less_blood_thirst.desc=Μειώνει τη δίψα σας για αίμα
+text.vampirism.skill.less_garlicdamage=Μείωση της βλάβης από το σκόρδο
+text.vampirism.skill.less_sundamage=Μείωση της βλάβης από τον Ήλιο
+text.vampirism.skill.night_vision=Νυχτερινή Όραση
+text.vampirism.skill.disguise=Μεταμφίεση
+text.vampirism.skill.vampire_forest_fog=Μακρινή θέα
+text.vampirism.skill.vampire_forest_fog.desc=Αυξήστε την απόσταση της ομίχλης στο δάσος των βρυκολάκων
+text.vampirism.skill.water_resistance=Αντοχή στο νερό
+text.vampirism.skill.water_resistance.desc=Το σώμα σας δεν θα αποδυναμώνεται απο το νερό πλεον
+
+#HUNTER SKILLS
+text.vampirism.skill.ihunterplayer=Να γίνει ένας κυνηγός
+text.vampirism.skill.hunter_attack_speed=Αυξημένη ταχύτητα επίθεσης
+text.vampirism.skill.weapon_table=Πίνακας όπλου του κυνηγού
+text.vampirism.skill.weapon_table.desc=Μάθετε πώς μπορείτε να χρησιμοποιήσετε τον πίνακα όπλου του κυνηγού
+text.vampirism.skill.double_crossbow=Διπλασίασε το
+text.vampirism.skill.double_crossbow.desc=Ξεκλειδώνει την διπλή βαλλίστρα
+text.vampirism.skill.enhanced_crossbow=Ενισχυμένες Βαλλίστρες
+text.vampirism.skill.enhanced_crossbow.desc=Μάθετε πώς μπορείτε να ενισχύσετε τις βαλλίστρες σας
+text.vampirism.skill.hunter_advanced_attack_speed=Επίθεση γρήγορη σαν τον άνεμο
+text.vampirism.skill.hunter_advanced_attack_speed.desc=Αυξήστε την ταχύτητα της επίθεσής σας ακόμη περισσότερο
+text.vampirism.skill.stake1=Πώς να χρησιμοποιήσετε έναν πάσσαλο
+text.vampirism.skill.stake1.desc=Σκοτώστε άμεσα κάθε βρικόλακα που έχει κάτω από το %s τοις εκατό της μέγιστης ζωής του με έναν πάσσαλο
+text.vampirism.skill.stake2=Πώς να χρησιμοποιήσετε πραγματικά έναν πάσσαλο
+text.vampirism.skill.stake2.desc_all=Σκοτώστε άμεσα κάθε βρικόλακα από πίσω με έναν πάσσαλο για όσο διάστημα η μέγιστη υγεία του είναι κάτω από το %s
+text.vampirism.skill.stake2.desc_npc=Σκοτώστε άμεσα κάθε βρικόλακα NPC από πίσω με έναν πάσσαλο για όσο διάστημα η μέγιστη υγειά του είναι κάτω από %s
+text.vampirism.skill.blood_potion_table=Πίνακας φίλτρου αίματος
+text.vampirism.skill.blood_potion_table.desc=Μάθετε πώς μπορείτε να χρησιμοποιήσετε τον πίνακα φίλτρου αίματος για να δημιουργήσετε φίλτρα από αίμα βρικόλακα
+text.vampirism.skill.blood_potion_good_or_bad=Καλό ή κακό;
+text.vampirism.skill.blood_potion_good_or_bad.desc=Μάθετε πόσα κακά αποτελέσματα έχουν φίλτρα του αίματος σας
+text.vampirism.skill.blood_potion_less_bad=Βελτιωμένη Ζυθοποία
+text.vampirism.skill.blood_potion_less_bad.desc=Χαμηλώστε την πιθανότητα να λάβετε κακά αποτελέσματα
+text.vampirism.skill.blood_potion_category_hint=Έμπειρος Ζυθοποιός
+text.vampirism.skill.blood_potion_category_hint.desc=Πάρτε μια ιδέα τι θα μπορούσε να επηρεάσει το επιπλέον στοιχείο σας
+text.vampirism.skill.blood_potion_faster_crafting=Γρήγορη παρασκευή
+text.vampirism.skill.blood_potion_duration=Bελτιωμένη αντίδραση
+text.vampirism.skill.blood_potion_duration.desc=Το σώμα σας αντιδράει καλύτερα στα φίλτρα έτσι ώστε αυτά λειτουργούν περισσότερο
+text.vampirism.skill.blood_potion_portable_crafting=Παρασκευή εν κινήσει
+text.vampirism.skill.blood_potion_portable_crafting.desc=Μάθετε πώς να παρασκευάσετε φίλτρα αίματος χωρίς τον πίνακα φίλτρου αίματος
+text.vampirism.skill.blood_potion_identify_some=Μaster Παρασκευαστής
+text.vampirism.skill.blood_potion_identify_some.desc=Γνωρίστε μερικά από τα αποτελέσματα ενός φίλτρου αίματος
+text.vampirism.skill.tech_weapons=Τεχνολογία
+text.vampirism.skill.tech_weapons.desc=Μάθετε πώς να κατασκευάσετε κάποια προηγμένα όπλα
+text.vampirism.skill.enhanced_armor=Ενισχυμένη πανοπλία
+text.vampirism.skill.enhanced_weapons=Ενισχυμένα όπλα
+
+#ACTIONS
+action.vampirism.cancel=Ακύρωση
+
+
+#VAMPIRE ACTIONS
+action.vampirism.vampire.bat_skill=Εναλλαγή σε λειτουργία νυχτερίδας
+action.vampirism.vampire.freeze=Πάγωμα
+action.vampirism.vampire.invisibility=Αορατότητα
+action.vampirism.vampire.regen=Αναγέννηση
+action.vampirism.vampire.revive_fallen=Αναβίωσε τους νεκρούς
+action.vampirism.vampire.summon_bats=Εμφάνισε νυχτερίδες
+action.vampirism.vampire.teleport=Τηλεμεταφορά
+action.vampirism.vampire.vampire_rage=Οργή του Βρυκόλακα
+action.vampirism.vampire.sunscreen=Αντιηλιακό
+action.vampirism.vampire.disguise=Μεταμφίεση
+
+#HUNTER ACTIONS
+action.vampirism.hunter.disguise=Μεταμφίεση
+
+#BLOOD POTIONS
+text.vampirism.blood_potion.might_cause=Μπορεί να προκαλέσει:
+text.vampirism.blood_potion.any_effect=Δεν υπάρχει ιδιαίτερη επίδραση
+text.vampirism.blood_potion.category.normal_body_boost=Βελτιωμένη φόρμα σώματος
+text.vampirism.blood_potion.category.special_body_boost=Έντονα βελτιωμένη φόρμα γυμναστικής
+text.vampirism.blood_potion.category.normal_vampire_skills=Δεξιότητες βρικόλακα
+text.vampirism.blood_potion.category.special_vampire_skills=Ειδικές δεξιότητες βρικόλακα
+text.vampirism.blood_potion.category.bad_others=Απρόβλεπτες αρνητικές επιδράσεις
+
+
+#ENTITIES
+entity.vampirism.hunter_trainer.name=Εκπαιδευτής κυνηγός βαμπίρ
+entity.vampirism.advanced_vampire.name=Προηγμένος Βρικόλακας
+entity.vampirism.advanced_hunter.name=Προηγμένος κυνηγός
+entity.vampirism.hunter_villager.name=Θυμωμένος χωρικός
+entity.vampirism.vampire_hunter.name=Κυνηγός Βρικολάκων
+entity.vampirism.vampire.name=Βρικόλακας
+entity.vampirism.ghost.name=Φάντασμα
+entity.vampirism.vampire_baron.name=Βρικόλακας Βαρόνος
+entity.vampirism.vampire_minion_r.name=Βρικόλακας Τσιράκι
+entity.vampirism.vampire_minion_s.name=Βρικόλακας Τσιράκι
+entity.vampirism.blinding_bat.name=Νυχτερίδα
+entity.vampirism.dracula.name=Δράκουλας
+entity.vampirism.dead_mob.name=Νεκρό όν
+entity.vampirism.portal_guard.name=Φρουρός Πύλης
+entity.vampirism.converted_villager.name=Βρικόλακας χωρικός
+text.vampirism.entity_level=Επίπεδο
+
+#RITUALS
+text.vampirism.ritual_missing_items=Λείπουν %s των «%s» για αυτό το τελετουργικό
+text.vampirism.ritual_night_only=Μπορείτε να εκτελέσετε αυτό το τελετουργικό μόνο το βράδυ
+text.vampirism.trainer_level_wrong=Αυτός ο εκπαιδευτής δεν μπορεί να σας εκπαιδεύσει στο επίπεδό σας
+
+#BLOCKS
+tile.vampirism.hunter_table.name=Πίνακας έρευνας κυνηγού
+tile.vampirism.castle_block.name=Μπλοκ Κάστρου
+
+tile.vampirism.cursed_earth.name=Καταραμένη γη
+tile.vampirism.altar_infusion.name=Βωμό της έγχυσης
+tile.vampirism.altar_pillar.name=Πυλώνας του βώμου
+tile.vampirism.altar_tip.name=Συμβουλή για βωμό
+tile.vampirism.altar_inspiration.name=Βωμός της έμπνευσης
+tile.vampirism.tent.name=Σκηνή
+tile.vampirism.church_altar.name=Βωμός του καθαρισμού
+tile.vampirism.blood_container.name=Κοντέινερ αίματος
+tile.vampirism.med_chair.name=Καρέκλα ένεσης
+tile.vampirism.vampire_orchid.name=Ορχιδέα Βρικόλακα
+tile.vampirism.fire_place.name=Τζάκι
+tile.vampirism.weapon_table.name=Πίνακας όπλου του κυνηγού
+tile.vampirism.weapon_table.cannot_use=Δεν έχετε μάθει πώς να το χρησιμοποιήσετε αυτό
+tile.vampirism.blood_potion_table.name=Πίνακας φίλτρου αίματος
+tile.vampirism.blood_potion_table.cannot_use=Δεν έχετε μάθει πώς να το χρησιμοποιήσετε αυτό
+tile.vampirism.sunscreen_beacon.name=Φάρος αντιηλιακού
+tile.vampirism.alchemical_cauldron.cannot_use=Δεν έχετε μάθει πώς να το χρησιμοποιήσετε αυτό
+
+#ITEMS
+item.vampirism.hunter_intel.name=Ιntel Κυνηγού
+text.vampirism.for_level=για το επίπεδο
+item.vampirism.injection.name=Σύριγγα
+item.vampirism.injection.garlic.name=Ένεση σκόρδου
+item.vampirism.injection.sanguinare.name=Ένεση Sanguinare
+item.vampirism.item_tent.name=Σκηνή
+item.vampirism.item_coffin.name=Φέρετρο
+item.vampirism.item_garlic.name=Σκόρδο
+item.vampirism.item_med_chair.name=Καρέκλα ένεσης
+item.vampirism.battle_axe.name=Τσεκούρι μάχης
+item.vampirism.crossbow_arrow.name=Βέλος βαλλίστρας
+item.vampirism.crossbow_arrow.vampire_killer.tooltip=Σκοτώνει άμεσα χαμηλό επίπεδο NPC βρικολάκων.
+item.vampirism.crossbow_arrow.vampire_killer.name=Βέλος δολοφόνος βρικόλακα
+item.vampirism.basic_crossbow.name=Βαλλίστρα
+item.vampirism.enhanced_crossbow.name=Ενισχυμένη Βαλλίστρα
+item.vampirism.basic_double_crossbow.name=Διπλή Βαλλίστρα
+item.vampirism.enhanced_double_crossbow.name=Ενισχυμένη διπλή βαλλίστρα
+item.vampirism.stake.name=Πάσσαλος
+item.vampirism.vampire_blood_bottle.name=Αίμα Βρικόλακα
+item.vampirism.blood_potion.name=Φίλτρο αίματος
+item.vampirism.basic_tech_crossbow.name=Ημι-αυτόματη βαλλίστρα
+item.vampirism.enhanced_tech_crossbow.name=Ενισχυμένη ημι-αυτόματο βαλλίστρα
+item.vampirism.tech_crossbow_ammo_package.name=Κλιπ βέλους
+item.vampirism.vampires_fear.name=Φόβος του Βαμπίρ
+item.vampirism.blood_bottle.name=Φιάλη αίματος
+item.vampirism.vampire_fang.name=Δόντι βαμπίρ
+item.vampirism.pitchfork.name=Δίκρανο
+item.vampirism.human_heart.name=Ανθρώπινη καρδιά
+item.vampirism.torch.name=Πυρσός
+item.vampirism.pure_blood.name=Καθαρό αίμα
+item.vampirism.sunscreen.name=Αντιηλιακό
+item.vampirism.leech_sword.name=Βδέλλα
+item.vampirism.coffin.name=Φέρετρο
+item.vampirism.vampire_armor_helmet.name=Κράνος του βαμπίρ
+item.vampirism.vampire_armor_leggings.name=Κολάν του βαμπίρ
+item.vampirism.vampire_armor_boots.name=Μπότες του βαμπίρ
+item.vampirism.vampire_armor_chestplate.name=Πανοπλία του βαμπίρ
+item.vampirism.minion_name_tag.name=Τσιράκι όνομα ετικέτας
+item.vampirism.gem_of_binding.name=Πετράδι της σύνδεσης
+item.vampirism.blood_eye.name=Αιματώδες μάτι
+item.vampirism.weak_vampire_fang.name=Αδύναμο δόντι βαμπίρ
+item.vampirism.weak_human_heart.name=Αδύναμη ανθρώπινη καρδιά
+item.vampirism.concentrated_garlic.name=Συμπυκνωμένο σκόρδο
+item.vampirism.garlic_bomb.name=Βόμβα Σκόρδου
+item.vampirism.vampire_book.name=Βιβλίο Βρικόλακα
+item.vampirism.armor_of_swiftness.head.name=Κράνος της ταχύτητας
+item.vampirism.armor_of_swiftness.chest.name=Θώρακας της ταχύτητας
+item.vampirism.armor_of_swiftness.legs.name=Κολάν της ταχύτητας
+item.vampirism.armor_of_swiftness.feet.name=Μπότες της ταχύτητας
+item.vampirism.hunter_hat0.head.name=Καπέλο κυνηγού
+item.vampirism.hunter_hat1.head.name=Καπέλο κυνηγού
+item.vampirism.hunter_axe.name=Τσεκούρι κυνηγού
+item.vampirism.hunter_coat.head.name=Κράνος-Παλτό Κυνηγού
+item.vampirism.hunter_coat.chest.name=Παλτό κυνηγού
+item.vampirism.hunter_coat.legs.name=Κολάν-Παλτό Κυνηγού
+item.vampirism.hunter_coat.feet.name=Μπότες-Παλτό Κυνηγού
+
+#KEYS
+keys.vampirism.select_skills=Επιλέξτε δεξιότητες
+keys.vampirism.action=Χρησιμοποιήστε Ενέργειες
+keys.vampirism.blood_potion_crafting=Φορητή χειροτεχνία φίλτρου αίματος
+keys.vampirism.category=Βαμπιρισμός
+keys.vampirism.suck=Ρουφώ αίμα
+keys.vampirism.auto=Μπουκάλι Αίματος Αυτόματης Συμπλήρωσης
+keys.vampirism.vision=Αλλαγή όρασης
+
+
+#ADVANCEMENTS
+advancement.vampirism.become_vampire=Πάρτε μερικούς κυνόδοντες
+advancement.vampirism.become_vampire.desc=Γίνετε ένας Βρικόλακας
+advancement.vampirism.become_hunter=Αρχίζει το κυνήγι
+advancement.vampirism.become_hunter.desc=Γίνετε ένας Κυνηγός Βρικολάκων
+
+
+#POTIONS
+effect.vampirism.sunscreen=Αντιηλιακό
+effect.vampirism.thirst=Δίψα
+effect.vampirism.saturation=Κορεσμός
+effect.vampirism.sanguinare=Sanguinare Vampiris
+effect.vampirism.garlic=Σκόρδο
+
+#FLUIDS
+fluid.vampirism.vampirismblood=Αίμα
+
+#GUI
+gui.vampirism.hunter_weapon_table=Πίνακας όπλου του κυνηγού
+gui.vampirism.hunter_weapon_table.level=Απαιτούμενο επίπεδο κυνηγού
+gui.vampirism.hunter_weapon_table.skill=Απαιτούμενη ικανότητα: %s
+gui.vampirism.blood_potion_table.create=Έναρξη Χειροτεχνίας
+gui.vampirism.revertback.head=Επανέλθετε σε κανονικό άνθρωπο
+gui.vampirism.revertback.desc=Θα χάσετε όλα σας τα επίπεδα και θα πεθάνετε
+gui.vampirism.reset_skills.title=Επαναφέρετε τις δεξιότητες
+gui.vampirism.reset_skills.desc=Εάν επαναφέρετε τις ικανότητές σας θα χάσετε ένα επίπεδο. Θέλετε να επαναφέρετε τις ικανότητές σας;
+gui.vampirism.alchemical_cauldron.level=Απαιτούμενο επίπεδο κυνηγού
+gui.vampirism.alchemical_cauldron.skill=Απαιτούμενη ικανότητα: %s
+
+#COMMANDS
+command.vampirism.base.level.faction_not_found=Δεν βρέθηκε φατρία %s
+commands.vampirism.failed_to_execute=Απέτυχε η εκτέλεση της εντολής. Εσωτερικό σφάλμα.
+command.vampirism.base.vampire_biome.searching=Ψάχνουμε για ένα Περιβάλλον Δάσος Βρικολάκων. Παρακαλώ περίμενε
+command.vampirism.base.vampire_biome.not_found=Δεν βρέθηκε κανένα Περιβάλλον Δάσος Βρικολάκων.
+
+#ENCHANMENTS
+enchantment.vampirism.arrow_frugality=Βέλος λιτότητας
+enchantment.vampirism.vampire_slayer=Δολοφόνος Βρικολάκων
+
+#ETC
+text.vampirism.vampire=Βρικόλακας
+text.vampirism.vampires=Βρικόλακες
+text.vampirism.all=Όλα
+text.vampirism.hunter=Κυνηγός
+text.vampirism.hunters=Κυνηγός
+text.vampirism.level=Επίπεδο
+text.vampirism.level_up=Ανεβαίνετε επίπεδο
+text.vampirism.can_only_be_used_by=Αυτό μπορεί να χρησιμοποιηθεί μόνο από τους %s παίκτες
+text.vampirism.can_only_be_used_by_level=Αυτό μπορεί να χρησιμοποιηθεί μόνο από %s παίκτες επιπέδου %s ή υψηλότερο
+text.vampirism.med_chair_other_faction=Δεν μπορείτε να γίνετε ένας κυνηγός, δεδομένου ότι είστε ήδη ένας %s
+text.vampirism.can_only_be_used_with_skill=Αυτό μπορεί να χρησιμοποιηθεί μόνο με την ικανότητα: %s
+text.vampirism.need_item_to_use=Χρειάζεστε %s για να χρησιμοποιήσετε αυτό
+text.vampirism.immune_to=Είστε απρόσβλητος σε
+text.vampirism.required_skill=Απαιτούμενη ικανότητα: %s
+text.vampirism.from_behind=Από πίσω.
+text.vampirism.unknown=Άγνωστο
+text.vampirism.basic_hunter.cannot_train_you_any_further=Δεν μπορώ να σας εκπαιδεύσω περιτέρω
+text.vampirism.basic_hunter.pay_n_vampire_blood_more=Παρακαλώ πληρώστε μου %s περισσότερες φιάλες αίματος βρικόλακα για να σας εκπαιδεύσω
+text.vampirism.basic_hunter.i_will_train_you=Εντάξει, θα σας εκπαιδεύσω
+text.vampirism.i_am_busy_right_now=Είμαι απασχολημένος αυτή την στιγμή
+text.vampirism.crossbow.not_loaded=Δεν έχει φορτωθεί
+text.vampirism.crossbow.loaded_arrow_count=Φορτωμένα %s βέλη
+itemGroup.vampirism=Βαμπιρισμός
+death.attack.sun=%1$s δεν του/της άρεσε ο ήλιος
+death.attack.garlic=%1$s δηλητηριάστηκε από σκόρδο
+text.vampirism.skill.level_to_low=Το επίπεδο βρικολακά σας είναι πολύ χαμηλό για αυτό
+text.vampirism.skill.cooldown_not_over=Παρακαλώ περιμένετε μέχρι να τελιώσει ο χρόνος επαναφόρτισης
+text.vampirism.ritual_missing_times=Σας λείπουν αντικείμενα για αυτό το τελετουργικό
+text.vampirism.ritual_structure_wrong=Η δομή είναι λάθος για αυτό το τελετουργικό
+text.vampirism.ritual_level_wrong=Δεν μπορείτε να χρησιμοποιήσετε αυτό το βωμό σε αυτό το επίπεδο
+text.vampirism.ritual_still_running=Το τελετουργικό είναι ακόμη σε εξέλιξη
+text.vampirism.not_enough_blood=Δεν υπάρχει αρκετό αίμα στον βωμό
+text.vampirism.ritual_requirements_not_met=Δεν πληρούνται όλες οι απαιτήσεις για αυτό το τελετουργικό
+text.vampirism.purity=Καθαρότητα
+text.vampirism.ritual_no_vampire=Θα πρέπει να είστε βρικολακας για αυτό τελετουργικό
+text.vampirism.cant_fly_day=Δεν μπορείτε να πετάξετε κατά την διάρκεια της ημέρας
+text.vampirism.no_more_minions=Δεν είστε σε θέση να ελέγχετε περισσότερα τσιράκια
+text.vampirism.coffin.no_sleep=Μπορείτε να κοιμάστε μόνο την ημέρα
+text.vampirism.coffin.occupied=Αυτό το φέρετρο είναι κατειλημμένο
+text.vampirism.coffin.stopsleeping=Αφήστε το φέρετρο
+text.vampirism.coffin.cant_use=Δεν μπορείτε να κοιμηθείτε σε φέρετρο
+text.vampirism.blood_left=Απομεινάρι αίματος
+text.vampirism.blood=αίμα
+text.vampirism.vampirelevel=ΕπίπεδοΒρικόλακα
+text.vampirism.entitysblood=Αίμα της οντότητας
+text.vampirism.minion=Τσιράκι
+text.vampirism.normal_vision=Κανονική όραση
+text.vampirism.night_vision=Νυχτερινή Όραση
+text.vampirism.no_control_minion=Δεν έχετε κανέναν έλεγχο πάνω σε αυτό το τσιράκι
+text.vampirism.need_empty_bottle=Αρχοντά μου, χρειάζομαι ένα άδειο μπουκάλι για να συλλέξω αίμα
+text.vampirism.thanks=Ευχαριστώ
+text.vampirism.coming_back=Έπιστρέφω, Αρχοντά μου
+text.vampirism.sorry_i_died_while_doing=Αρχοντά μου, Λυπάμαι αλλά πέθανα κατά την εκπλήρωση της εργασία σας
+text.vampirism.current_task=Τρέχουσα εργασία
+text.vampirism.lord.become=Οριστίκατε σε Άρχοντα των Βρικολάκων
+text.vampirism.lord.other_player_become=νίκησε τον τρέχοντα Άρχοντα των Βρικολάκων και τον αντικαθιστά
+text.vampirism.lord.vampire_replace=Κάποιος άλλος παίκτης σας αντικατέστησε ως Άρχοντα των Βρικολάκων
+text.vampirism.lord.vampire_kill_replace=Ένας άλλος βρικόλακας σας έχει εξοντώσει και πήρε τη θέση σας ως Άρχοντας των Βρικολάκων
+text.vampirism.lord.new_lord_castle=Ένας νεός Άρχοντας των Βρικολάκων εχει οριστεί και μετακόμισε στο κάστρο του
+text.vampirism.lord.vampire_replace_absence=Ένας αλλος βρικόλακας σας αντικαταστήσε ως Άρχοντας των Βρικολάκων κατά την απουσία σας
+text.vampirism.lord.portal_disabled=Αυτή η πύλη δεν οδηγεί πουθενά
+text.vampirism.lord.level_to_low=Το επίπεδο βρικόλακα σας είναι πολύ χαμηλό για να γίνετε Άρχοντας των Βρικολάκων
+text.vampirism.guard_stay_away_level_low=Το επίπεδο βρικόλακα σας είναι πολύ χαμηλό για να ταξιδέψετε στο κάστρο του Δράκουλα. Μείνετε μακριά!
+text.vampirism.coffin.wrong_dimension=Δεν μπορείτε να κοιμηθείτε σε αυτή τη διάσταση.
+
+
+text.vampirism.castle_fail=Vampirism δεν ήταν σε θέση να βρει μια κατάλληλη θέση για ένα Κάστρο Βρικόλακα. Σας συνιστάτε να δημιουργήσετε έναν νέο κόσμο. Μπορείτε επίσης να δοκιμάσετε "/vampirism checkForVampireBiome", εάν αυτό δεν βρει ένα περιβάλλον, πιθανών ένα άλλο mod να παρεμβαίνει.
+text.vampirism.structure=Κατασκευή
+text.vampirism.pillar_blocks=Μπλο Πυλώνα
+text.vampirism.no_dracula_to_call=Ο Δράκουλας είναι νεκρός και δεν μπορεί να κληθεί
+text.vampirism.garlic_weapons=Αυτό το όπλο είναι επικαλυμμένο με σκόρδο και δηλητηριάζει βρικόλακες./nΑλλά το σκόρδο εξασθενεί.
+text.vampirism.outdated=Εκτελείτε το Vampirism %s, η τελευταία έκδοση είναι %s.
+text.vampirism.action.cooldown_not_over=Ο χρόνος επαναφόρτησης δεν τελείωσε ακόμα
+text.vampirism.item_tier.normal=Κανονικό
+text.vampirism.item_tier.enhanced=Ενισχυμένο
+text.vampirism.item_tier.ultimate=Ιδιαίτερο
+text.vampirism.poisonous_to_vampires=Δηλητηριώδες για τους Βρικόλακες
+text.vampirism.deals_more_damage_to=Προκαλεί %s τοις εκατό περισσότερη ζημιά εναντίον
+
+#MINION COMMANDS
+minioncommand.vampirism.attackhostilenoplayers=Εχθρική επίθεση
+minioncommand.vampirism.attackhostile=Εχθρική επίθεση συμπεριλαμβάνοντας τον παίκτη
+minioncommand.vampirism.collectblood=Σύλλεξε αίμα
+minioncommand.vampirism.defendlord=Υπερασπίσου τον Άρχοντα
+minioncommand.vampirism.stayhere=Μείνε εδώ
+minioncommand.vampirism.comeback=Ελάτε πίσω (Απομακρυσμένα τσιράκια)
+minioncommand.vampirism.justfollow=Απλά ακολουθήστε με
+minioncommand.vampirism.converttosaveable=Πάρε πίσω την πέτρα της δεύσμευσης
+minioncommand.vampirism.defendarea=Υπερασπίσου την περιοχή
+
+#CONFIG
+category.vampirism.balance=Ρυθμίσεις ισορροπίας
+category.vampirism.disable.tooltip=Απενεργοποιήστε μέρη του mod (Δεν συνιστάται)
+
+

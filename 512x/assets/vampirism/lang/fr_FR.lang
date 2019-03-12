@@ -1,0 +1,452 @@
+#X-Generator: crowdin.com
+#SKILLS
+text.vampirism.skills.gui_title=Vos compétences
+text.vampirism.skills.points_left=%d point(s) de compétence restant(s)
+text.vampirism.skill.resetall=Remise à zéro des compétences
+text.vampirism.skill.unlocked=Débloqué
+text.vampirism.skill.unlocks_action=Débloquer action
+text.vampirism.skill.unlock_parent_first=Débloquer avant la compétence parente
+text.vampirism.skill.skills_reset=Vos compétences ont été reinitialisées
+text.vampirism.skill.deactivated_by_serveradmin=Cette capacité est désactivée par votre administrateur serveur
+
+
+#VAMPIRE SKILLS
+text.vampirism.skill.ivampireplayer=Se transformer en vampire
+text.vampirism.skill.avoided_by_creepers=Evité par les creepers
+text.vampirism.skill.blood_vision=Vision de sang
+text.vampirism.skill.blood_vision.desc=Permet de voir les entités à travers les murs dans le noir. S'active avec une touche.
+text.vampirism.skill.poisonous_bite=Morsure empoisonnée
+text.vampirism.skill.poisonous_bite.desc=Empoisonne les créatures mordues
+text.vampirism.skill.more_bite_damage=Dent renforcée
+text.vampirism.skill.more_bite_damage.desc=Cause plus de dommages en mordant
+text.vampirism.skill.less_blood_thirst=Vampire frugal
+text.vampirism.skill.less_blood_thirst.desc=Réduit votre soif de sang
+text.vampirism.skill.less_garlicdamage=Réduit les dommages causés par l'ail
+text.vampirism.skill.less_sundamage=Réduit les dommages causés par le soleil
+text.vampirism.skill.night_vision=Vision nocturne
+text.vampirism.skill.disguise=Dissimuler
+text.vampirism.skill.vampire_forest_fog=Vision
+text.vampirism.skill.vampire_forest_fog.desc=Augmenter la portée du brouillard dans la forêt vampirique
+text.vampirism.skill.water_resistance=Résistance à l'eau
+text.vampirism.skill.water_resistance.desc=Votre corps ne sera plus affaiblis par l'eau désormais
+
+#HUNTER SKILLS
+text.vampirism.skill.ihunterplayer=Devenir un chasseur
+text.vampirism.skill.hunter_attack_speed=Vitesse d'attaque augmenté
+text.vampirism.skill.weapon_table=Table d'arme du Chasseur
+text.vampirism.skill.weapon_table.desc=Apprenez à utiliser la table d’arme du chasseur
+text.vampirism.skill.double_crossbow=Double tir
+text.vampirism.skill.double_crossbow.desc=Débloque l'arbalète double
+text.vampirism.skill.enhanced_crossbow=Arc amélioré
+text.vampirism.skill.enhanced_crossbow.desc=Apprendre comment améliorer votre arc
+text.vampirism.skill.hunter_advanced_attack_speed=Attaque rapide comme le vent
+text.vampirism.skill.hunter_advanced_attack_speed.desc=Augmenter encore plus votre vitesse d'attaque
+text.vampirism.skill.stake1=Comment utiliser un pieu
+text.vampirism.skill.stake1.desc=Tue instantanément un vampire avec un pieu si sa vie max est inférieure à %s
+text.vampirism.skill.stake2=Comment vraiment utiliser un pieu
+text.vampirism.skill.stake2.desc_all=Tue instantanément tout vampire NPC par derrière avec un pieu si sa vie max est inférieure à %s
+text.vampirism.skill.stake2.desc_npc=Tue instantanément tout vampire NPC par derrière avec un pieu si sa vie max est inférieure à %s
+text.vampirism.skill.blood_potion_table=Table à potion sanguine
+text.vampirism.skill.blood_potion_table.desc=Apprenez à utiliser la Table à potion sanguine pour créer des potions de sang de vampire
+text.vampirism.skill.blood_potion_good_or_bad=Bon ou mauvais ?
+text.vampirism.skill.blood_potion_good_or_bad.desc=Trouver les effets nocifs de vos potions sanguinaires
+text.vampirism.skill.blood_potion_less_bad=Alchimie améliorée
+text.vampirism.skill.blood_potion_less_bad.desc=Diminuer les chances d’obtenir des effets néfastes
+text.vampirism.skill.blood_potion_category_hint=Alchimiste novice
+text.vampirism.skill.blood_potion_category_hint.desc=Obtenir un indice sur les effets de cet objet supplémentaire
+text.vampirism.skill.blood_potion_faster_crafting=Alchimie accélérée
+text.vampirism.skill.blood_potion_duration=Réponse prolonguée
+text.vampirism.skill.blood_potion_duration.desc=Votre organisme réagit mieux aux potionx pour une efficacité prolongée
+text.vampirism.skill.blood_potion_portable_crafting=Alchimie normade
+text.vampirism.skill.blood_potion_portable_crafting.desc=Apprenez comment créer des potions sanguines sans table à potion sanguine
+text.vampirism.skill.blood_potion_identify_some=Maître alchimiste
+text.vampirism.skill.blood_potion_identify_some.desc=Découvrir des effets des la potion sanguine
+text.vampirism.skill.tech_weapons=Technologie
+text.vampirism.skill.tech_weapons.desc=Apprendre à fabriquer des armes avancées
+text.vampirism.skill.enhanced_armor=Armure avancée
+text.vampirism.skill.enhanced_weapons=Armes avancées
+text.vampirism.skill.disguise_hunter.desc=Vous permet de cacher des mobs et d'être beaucoup moins visibles par les autres joueurs
+text.vampirism.skill.basic_alchemy=Alchimie basique
+text.vampirism.skill.basic_alchemy.desc=Apprenez comment utiliser un chaudron d'alchimie pour fabriquer des choses incroyables.
+text.vampirism.skill.garlic_beacon=Repoussant à vampire
+text.vampirism.skill.garlic_beacon.desc=Apprenez à fabriquer un vaporisateur à ail pour garder ces vampires éloignés.
+text.vampirism.skill.purified_garlic=Ail purifié
+text.vampirism.skill.purified_garlic.desc=Purifiez votre ail pour augmenter son effet. Boostez votre ail diffusor avec elle.
+text.vampirism.skill.holy_water_enhanced=Amélioration de l'eau bénite
+text.vampirism.skill.holy_water_enhanced.desc=Créer amélioré l'eau bénite au lieu d'une normale.
+text.vampirism.skill.garlic_beacon_improved=Diffuseur amélioré
+text.vampirism.skill.garlic_beacon_improved.desc=Apprenez à fabriquer un diffuseur d'ail avec une gamme supérieure
+text.vampirism.command.available_subcommands=Sous-commandes disponibles :
+text.vampirism.command.subcommand_help=Utiliser '/%s help <subcommand>' pour obtenir plus d’informations
+text.vampirism.command.usage=/%s <subcommand><params>| Tapez /%s help pour obtenir toutes les sous-commandes disponibles
+
+#ACTIONS
+action.vampirism.cancel=Annuler
+
+
+#VAMPIRE ACTIONS
+action.vampirism.vampire.bat_skill=Activer/désactiver le mode chauve-souris
+action.vampirism.vampire.freeze=Geler
+action.vampirism.vampire.invisibility=Invisibilité
+action.vampirism.vampire.regen=Régénération
+action.vampirism.vampire.revive_fallen=Faire revivre les morts
+action.vampirism.vampire.summon_bats=Invoquer des chauves-souris
+action.vampirism.vampire.teleport=Téléporter
+action.vampirism.vampire.vampire_rage=Rage de vampire
+action.vampirism.vampire.sunscreen=Crème solaire
+action.vampirism.vampire.disguise=Dissimuler
+
+#HUNTER ACTIONS
+action.vampirism.hunter.disguise=Dissimuler
+
+#BLOOD POTIONS
+text.vampirism.blood_potion.might_cause=Peut causer :
+text.vampirism.blood_potion.any_effect=Pas d'effet spécial
+text.vampirism.blood_potion.category.normal_body_boost=Forme physique augmentée
+text.vampirism.blood_potion.category.special_body_boost=Forme physique très améliorée
+text.vampirism.blood_potion.category.normal_vampire_skills=Compétences de vampire
+text.vampirism.blood_potion.category.special_vampire_skills=Compétences spéciales de vampire
+text.vampirism.blood_potion.category.bad_others=Effets secondaires imprévisibles
+
+
+#ENTITIES
+entity.vampirism.hunter_trainer.name=Entraineur de Chasseur de Vampire
+entity.vampirism.advanced_vampire.name=Vampire avancé
+entity.vampirism.advanced_hunter.name=Chasseur avancé
+entity.vampirism.hunter_villager.name=Villagois furieux
+entity.vampirism.vampire_hunter.name=Chasseur de vampire
+entity.vampirism.vampire.name=Vampire
+entity.vampirism.ghost.name=Fantôme
+entity.vampirism.vampire_baron.name=Baron vampire
+entity.vampirism.vampire_minion_r.name=Sbire de Vampire
+entity.vampirism.vampire_minion_s.name=Sbire de Vampire
+entity.vampirism.blinding_bat.name=Chauve-souris
+entity.vampirism.dracula.name=Dracula
+entity.vampirism.dead_mob.name=Mort vivant
+entity.vampirism.portal_guard.name=Garde du portail
+entity.vampirism.converted_villager.name=Villagois vampire
+text.vampirism.entity_level=Niveau
+entity.villager.vampire_hunter=Alchemic Priest
+
+#RITUALS
+text.vampirism.ritual_missing_items=Il manque %s de «%s» pour ce rituel
+text.vampirism.ritual_night_only=Vous ne pouvez exercer ce rituel que la nuit
+text.vampirism.trainer_level_wrong=Cet entraineur ne peut vous former à votre niveau
+
+#BLOCKS
+tile.vampirism.hunter_table.name=Table de recherche du chasseur
+tile.vampirism.castle_block.name=Bloc de château
+tile.vampirism.castle_block.dark_stone=Pierre Sombre
+tile.vampirism.castle_block.normal_brick=Pierre Taillée
+tile.vampirism.castle_block.dark_brick=Pierre Taillée Sombre
+tile.vampirism.castle_block.purple_brick=Pierre Taillée Violette
+tile.vampirism.castle_block.no_spawn=Aucune entité ne peut spawer dessus
+tile.vampirism.castle_block.vampire_spawn=Seul les vampires peuvent apparaître dessus
+
+tile.vampirism.cursed_earth.name=Terre maudite
+tile.vampirism.altar_infusion.name=Autel de l'Infusion
+tile.vampirism.altar_pillar.name=Pilier de l’autel
+tile.vampirism.altar_tip.name=Astuce de l’autel
+tile.vampirism.altar_inspiration.name=Autel de l'Inspiration
+tile.vampirism.tent.name=Tente
+tile.vampirism.church_altar.name=Autel de Purification
+tile.vampirism.blood_container.name=Réceptacle de sang
+tile.vampirism.med_chair.name=Chaise d'injection
+tile.vampirism.vampire_orchid.name=Orchidé vampire
+tile.vampirism.fire_place.name=Cheminée
+tile.vampirism.weapon_table.name=Table d'arme du Chasseur
+tile.vampirism.weapon_table.cannot_use=Vous n'avez pas appris à utiliser ceci
+tile.vampirism.blood_potion_table.name=Table à potion sanguine
+tile.vampirism.blood_potion_table.cannot_use=Vous n'avez pas appris à utiliser ceci
+tile.vampirism.sunscreen_beacon.name=Balise écran solaire
+tile.vampirism.sunscreen_beacon.tooltip1=Créatif Seulement.
+tile.vampirism.sunscreen_beacon.tooltip2=Donne de l'effet crème solaire à tous les vampires dans un rayon de %s , de la bedrock jusqu'au ciel.
+tile.vampirism.alchemical_fire.name=Le feu alchimique
+tile.vampirism.alchemical_cauldron.other=Ce chaudron appartient à % s . Vous ne devriez pas l' utiliser.
+tile.vampirism.alchemical_cauldron.name=Alchimique Cauldron
+tile.vampirism.alchemical_cauldron.display=% S 's % s
+tile.vampirism.alchemical_cauldron.cannot_use=Vous n'avez pas appris à utiliser ceci
+tile.vampirism.garlic_beacon.name=Ail Diffusor
+tile.vampirism.garlic_beacon.improved=Amélioré
+tile.vampirism.garlic_beacon.weak=Faible
+tile.vampirism.garlic_beacon.already_fueled=Déjà alimenté
+tile.vampirism.garlic_beacon.successfully_fueled=Avec succès alimenté
+tile.vampirism.garlic_beacon.tooltip1=Diffuse un spray d'ail.
+tile.vampirism.garlic_beacon.tooltip2=Affecte une zone de %s par %s.
+
+#ITEMS
+item.vampirism.hunter_intel.name=Expérience pour Chasseur
+text.vampirism.for_level=pour le niveau
+item.vampirism.injection.name=Seringue
+item.vampirism.injection.garlic.name=Injection d'ail
+item.vampirism.injection.sanguinare.name=Injection de sang
+item.vampirism.item_tent.name=Tente
+item.vampirism.item_coffin.name=Cercueil
+item.vampirism.item_garlic.name=Ail
+item.vampirism.item_med_chair.name=Chaise d'injection
+item.vampirism.battle_axe.name=Hache de guerre
+item.vampirism.crossbow_arrow.name=Carreau d'arbalète
+item.vampirism.crossbow_arrow.vampire_killer.tooltip=Tue instantanément les vampires NPC de bas niveau.
+item.vampirism.crossbow_arrow.vampire_killer.name=Flèche tueuse de vampires
+item.vampirism.crossbow_arrow.spitfire.name=Spitfire
+item.vampirism.crossbow_arrow.spitfire.tooltip=Crée un feu alchimique sur l'impact
+item.vampirism.basic_crossbow.name=Arbalète
+item.vampirism.enhanced_crossbow.name=Arbalète améliorée
+item.vampirism.basic_double_crossbow.name=Arbalète double
+item.vampirism.enhanced_double_crossbow.name=Arbalète double améliorée
+item.vampirism.stake.name=Pieu
+item.vampirism.vampire_blood_bottle.name=Sang de vampire
+item.vampirism.blood_potion.name=Potion sanguine
+item.vampirism.basic_tech_crossbow.name=Arbalète semi-automatique
+item.vampirism.enhanced_tech_crossbow.name=Arbalète semi-automatique améliorée
+item.vampirism.tech_crossbow_ammo_package.name=Lot de flèches
+item.vampirism.tech_crossbow_ammo_package.tooltip=Peut être utilisé pour combler % s
+item.vampirism.vampires_fear.name=Frayeur de vampire
+item.vampirism.blood_bottle.name=Bouteille de sang
+item.vampirism.vampire_fang.name=Croc de vampire
+item.vampirism.pitchfork.name=Fourche à foin
+item.vampirism.human_heart.name=Coeur d'humain
+item.vampirism.torch.name=Torche
+item.vampirism.pure_blood.name=Sang pur
+item.vampirism.sunscreen.name=Crème solaire
+item.vampirism.leech_sword.name=Sangsue
+item.vampirism.coffin.name=Cercueil
+item.vampirism.vampire_armor_helmet.name=Casque du vampire
+item.vampirism.vampire_armor_leggings.name=Jambières du vampire
+item.vampirism.vampire_armor_boots.name=Bottes du vampire
+item.vampirism.vampire_armor_chestplate.name=Plastron du vampire
+item.vampirism.minion_name_tag.name=Badge de sbire
+item.vampirism.gem_of_binding.name=Gemme d'attache
+item.vampirism.blood_eye.name=Œil sanglant
+item.vampirism.weak_vampire_fang.name=Petit croc de vampire
+item.vampirism.weak_human_heart.name=Petit coeur humain
+item.vampirism.concentrated_garlic.name=Ail concentré
+item.vampirism.garlic_bomb.name=Bombe à ail
+item.vampirism.vampire_book.name=Livre du vampire
+item.vampirism.armor_of_swiftness.head.name=Casque de rapidité
+item.vampirism.armor_of_swiftness.chest.name=Plastron de rapidité
+item.vampirism.armor_of_swiftness.legs.name=Pantalon de rapidité
+item.vampirism.armor_of_swiftness.feet.name=Bottes de rapidité
+item.vampirism.hunter_hat0.head.name=Chapeau de Chasseur
+item.vampirism.hunter_hat1.head.name=Chapeau de Chasseur
+item.vampirism.hunter_axe.name=Hache de Chasseur
+item.vampirism.hunter_coat.head.name=Casque de Chasseur
+item.vampirism.hunter_coat.chest.name=Manteau de Chasseur
+item.vampirism.hunter_coat.legs.name=Pantalon de Chasseur
+item.vampirism.hunter_coat.feet.name=Bottes de Chasseur
+item.vampirism.obsidian_armor.head.name=Casque Obsidian de l'Enfer
+item.vampirism.obsidian_armor.chest.name=Obsidian Pansière de l'Enfer
+item.vampirism.obsidian_armor.legs.name=Leggings Obsidian de l'enfer
+item.vampirism.obsidian_armor.feet.name=Bottes Obsidian de l'enfer
+item.vampirism.holy_water_bottle.name=Eau bénite
+item.vampirism.holy_water_bottle.splash.name=Bouteille Splash de l'eau bénite
+item.vampirism.holy_salt.name=Bienheureux sel
+item.vampirism.holy_salt_water.name=Bienheureuse eau salée
+item.vampirism.item_alchemical_fire.name=Le feu alchimique
+item.vampirism.item_alchemical_fire.desc1=Ne se propage pas
+item.vampirism.item_alchemical_fire.desc2=Brûlures indéfiniment
+item.vampirism.purified_garlic.name=Ail purifié
+item.vampirism.garlic_beacon_core.name=Ail Diffusor de base
+item.vampirism.garlic_beacon_core_improved.name=Amélioration de l'ail Diffusor de base
+item.vampirism.pure_salt.name=Sel pur
+
+#KEYS
+keys.vampirism.select_skills=Choisir compétence
+keys.vampirism.action=Utiliser actions
+keys.vampirism.blood_potion_crafting=Fabriquer des potions sanguines à la main
+keys.vampirism.category=Vampirisme
+keys.vampirism.suck=Suce le sang
+keys.vampirism.auto=Auto remplissage de bouteille de sang
+keys.vampirism.vision=Changer de vision
+
+
+#ADVANCEMENTS
+advancement.vampirism.become_vampire=Récupérer des crocs
+advancement.vampirism.become_vampire.desc=Devenir un Vampire
+advancement.vampirism.become_hunter=Commencer la Chasse
+advancement.vampirism.become_hunter.desc=Devenir un Chasseur de Vampires
+advancement.vampirism.vampire_forest=Forêt vampirique
+
+
+#POTIONS
+effect.vampirism.sunscreen=Crème solaire
+effect.vampirism.thirst=Soif
+effect.vampirism.saturation=Saturation
+effect.vampirism.sanguinare=Sanguinare Vampiris
+effect.vampirism.fire_protection=Protection contre le feu
+effect.vampirism.garlic=Ail
+
+#FLUIDS
+fluid.vampirism.vampirismblood=Sang
+
+#GUI
+gui.vampirism.hunter_weapon_table=Table d'arme du Chasseur
+gui.vampirism.hunter_weapon_table.level=Niveau Chasseur requis : %s
+gui.vampirism.hunter_weapon_table.skill=Compétence requise : %s
+gui.vampirism.blood_potion_table.create=Commencer la fabrication
+gui.vampirism.revertback.head=Retransformation en humain normal
+gui.vampirism.revertback.desc=Vous perdrez tous vos niveaux et mourerez
+gui.vampirism.reset_skills.title=Remise à zéro des compétences
+gui.vampirism.reset_skills.desc=Si vous réinitialisez vos compétences vous perdrez un niveau. Confirmer l'opération ?
+gui.vampirism.reset_skills.desc_test=Voulez-vous réinitialiser vos compétences ? (Vous ne perdez pas un niveau, parce que vous utilisez une version alpha de Vampirism)
+gui.vampirism.alchemical_cauldron.level=Niveau Chasseur requis : %s
+gui.vampirism.alchemical_cauldron.skill=Compétence requise : %s
+
+#COMMANDS
+command.vampirism.base.level.faction_not_found=Faction %s introuvable
+commands.vampirism.failed_to_execute=Exécution impossible. Erreur interne.
+command.vampirism.base.reset_balance.success=Rénitialisation de la balance de la catégorie %s. Veuillez redémarrer MC.
+command.vampirism.base.reset_balance.not_found=N’a pas trouvé la balance de la catégorie %s.
+command.vampirism.base.level.cant_leave=Ne peut quitter la faction %s
+command.vampirism.base.eye.types=<id> doit être un nombre valide compris entre 0 et %s
+command.vampirism.base.eye.success=Changement du type d'oeil à %s avec succcès
+command.vampirism.base.fang.types=<id> doit être un nombre valide compris entre 0 et %s
+command.vampirism.base.fang.success=Nouveau type de croc: %s
+command.vampirism.base.vampire_biome.disabled=Le Biome Vampire est désactivé dans le fichier de config
+command.vampirism.base.vampire_biome.parse_dist=Impossible de parser la distance max. Valeur retenue: %s.
+command.vampirism.base.vampire_biome.time_warning=Cela va prendre beaucoup de temps. Utiliser '/%s %s yes', si vous êtes sûr
+command.vampirism.base.vampire_biome.searching=Recherche d'un biome forêt vampirique. Veuillez patienter
+command.vampirism.base.vampire_biome.not_found=Aucun biome forêt vampirique n'a été trouvé.
+command.vampirism.base.vampire_biome.found=Un biome forêt vampirique %s a été trouvé
+command.vampirism.base.debug.true=Activer le mode de débogage
+command.vampirism.base.debug.false=Désactiver le mode de débogage
+command.vampirism.test.gen_debug.true=Débogage de génération de carte activé
+command.vampirism.test.gen_debug.false=Débogage de génération de carte désactivé
+
+#ENCHANMENTS
+enchantment.vampirism.arrow_frugality=Flèche de frugalité
+enchantment.vampirism.vampire_slayer=Vampire Slayer
+
+#ETC
+text.vampirism.vampire=Vampire
+text.vampirism.vampires=Vampires
+text.vampirism.all=Tout
+text.vampirism.hunter=Chasseur
+text.vampirism.hunters=Chasseur
+text.vampirism.level=Niveau
+text.vampirism.level_up=Niveau supérieur
+text.vampirism.can_only_be_used_by=Ne peut être utilisé par des joueurs %s
+text.vampirism.can_only_be_used_by_level=Ne peut être utilisé par des joueurs %s d'un niveau %s ou supérieur
+text.vampirism.med_chair_other_faction=Vous ne pouvez devenir un Chasseur puis que vous êtes déjà %s
+text.vampirism.already_vampire=Vous êtes déjà un vampire
+text.vampirism.can_only_be_used_with_skill=Ne peut utilisé qu'avec la compétence : %s
+text.vampirism.need_item_to_use=Vous avez besoin de %s pour utiliser ceci
+text.vampirism.immune_to=Vous êtes immunisé contre
+text.vampirism.required_skill=Compétence requise : %s
+text.vampirism.from_behind=De derrière.
+text.vampirism.unknown=Inconnu
+text.vampirism.basic_hunter.cannot_train_you_any_further=Je ne peux vous former d'avantage
+text.vampirism.basic_hunter.pay_n_vampire_blood_more=Merci de me fournir encore %s bouteilles de sang de vampire pour vous entrainer
+text.vampirism.basic_hunter.i_will_train_you=D'accord, je vais vous former
+text.vampirism.i_am_busy_right_now=Je suis occupé maintenant
+text.vampirism.crossbow.not_loaded=Non chargé
+text.vampirism.crossbow.loaded_arrow_count=Chargé avec %s flèches
+itemGroup.vampirism=Vampirisme
+death.attack.sun=%1$s n'a pas aimé le soleil
+death.attack.garlic=%1$s a été empoisonné par de l'ail
+death.attack.vampire_on_fire=%1$s réduit en cendres
+death.attack.vampire_on_fire.player=%2$s a brulé %1$s
+death.attack.vampire_in_fire=%1$s réduit en cendres
+death.attack.vampire_in_fire.player=%1$s a été incinérée par %2$s
+death.attack.holy_water=% 1 $ s a été brûlé avec de l' eau bénite
+death.attack.holy_water.player=% 2 $ s brûlé % 1 $ s avec l' eau bénite
+text.vampirism.skill.level_to_low=Votre niveau de vampire est trop bas pour celà
+text.vampirism.skill.cooldown_not_over=Veuillez attendre jusqu'à la fin de votre récupération
+text.vampirism.ritual_missing_times=Vous avez oublié des éléments pour ce rituel
+text.vampirism.ritual_structure_wrong=La structure est mauvaise pour ce rituel
+text.vampirism.ritual_level_wrong=Vous ne pouvez pas utiliser cet altar à ce niveau
+text.vampirism.ritual_still_running=Le rituel est toujours en cours
+text.vampirism.not_enough_blood=Il n'y a pas assez de sang dans l'autel
+text.vampirism.ritual_requirements_not_met=Les exigences pour ce rituel n'ont pas toutes été respectées
+text.vampirism.purity=Pureté
+text.vampirism.ritual_no_vampire=Vous devez être un vampire pour ce rituel
+text.vampirism.cant_fly_day=Vous ne pouvez pas voler de jour
+text.vampirism.cant_fly_end=Vous ne pouvez pas vous transformer en chauve-souris dans l'End
+text.vampirism.no_more_minions=Vous ne pouvez pas contrôler plus de serviteurs
+text.vampirism.coffin.no_sleep=Vous pouvez seulement dormir de jour
+text.vampirism.coffin.occupied=Ce cercueil est occupé
+text.vampirism.coffin.stopsleeping=Quitte le cercueil
+text.vampirism.coffin.cant_use=Vous ne pouvez dormir dans un cerceuil
+text.vampirism.blood_left=Sang restant
+text.vampirism.blood=Sang
+text.vampirism.vampirelevel=Niveau de vampire
+text.vampirism.entitysblood=Sang de l'entité
+text.vampirism.minion=Serviteur
+text.vampirism.normal_vision=Vision normale
+text.vampirism.night_vision=Vision nocturne
+text.vampirism.no_control_minion=Vous n'avez aucun contrôle sur ce sbire
+text.vampirism.need_empty_bottle=Mon seigneur, j'ai besoin d'une bouteille vide pour récolter le sang
+text.vampirism.thanks=Merci
+text.vampirism.coming_back=Je reviens, mon seigneur
+text.vampirism.sorry_i_died_while_doing=Mon seigneur, je suis désolé mais je suis mort en accomplissant votre tâche
+text.vampirism.current_task=Tâche en cours
+text.vampirism.lord.become=Vous avez atteint le rang de seigneur vampire
+text.vampirism.lord.other_player_become=a vaincu l'actuel seigneur vampire et le remplace
+text.vampirism.lord.vampire_replace=Un joueur vous a remplacé en tant que le Seigneur Vampire
+text.vampirism.lord.vampire_kill_replace=Un joueur vous a tué et vous a pris votre place de Seigneur Vampire
+text.vampirism.lord.new_lord_castle=Un nouveau Seigneur Vampire est apparu et demeure dans son chateau
+text.vampirism.lord.vampire_replace_absence=Un vampire vous a remplacé en tant que Seigneur Vampire pendant votre absence
+text.vampirism.lord.portal_disabled=Ce portail ne mène nulle part
+text.vampirism.lord.level_to_low=Votre niveau de vampire est trop bas pour devenir seigneur vampire
+text.vampirism.guard_stay_away_level_low=Votre niveau de vampire est trop bas pour voyager au château de Dracula. Restez au loin !
+text.vampirism.coffin.wrong_dimension=Vous ne pouvez pas dormir dans cette dimension.
+
+
+text.vampirism.castle_fail=Vampirism n'est pas en mesure de trouvé la position d'un Chateau de Vampire. Il est recommandé de générer un nouveau monde. Vous pouvez aussi essayer d'entrer la commande "/vampirism checkForVampireBiome", si aucun biome n'est trouvé, un mod interfère probablement.
+text.vampirism.structure=Structure
+text.vampirism.pillar_blocks=Blocs pillier
+text.vampirism.no_dracula_to_call=Dracula est mort et ne peut pas être appelé
+text.vampirism.garlic_weapons=Cette arme est enduite avec de l'ail. Mais l'ail s'estompe.
+text.vampirism.outdated=Vous jouez avec avec la version %s de Vampirism, la dernière version est %s.
+text.vampirism.update_message=["Cliquer pour... [",{"text":"Download","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Cliquer ici pour aller à la page de téléchargement","color":"green"}},"clickEvent":{"action":"open_url","value":"@download@"}},"] [",{"text":"Website","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Cliquer ici pour aller à la page du forum du mod","color":"green"}},"clickEvent":{"action":"open_url","value":"@forum@"}},"] [",{"text":"Changelog","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Cliquer ici pour aller voir l'historique de changement des versions","color":"green"}},"clickEvent":{"action":"run_command","value":"/vampirism changelog"}},"]"]
+text.vampirism.action.cooldown_not_over=Temps de recharge non écoulé
+text.vampirism.item_tier.normal=Standard
+text.vampirism.item_tier.enhanced=Amélioré
+text.vampirism.item_tier.ultimate=Spécial
+text.vampirism.poisonous_to_vampires=Empoisonné pour les vampires
+text.vampirism.deals_more_damage_to=Cause %s pourcent de dommages supplémentaires
+text.vampirism.liquid_container=Tout réservoir de liquide
+text.vampirism.translators=phpr\nMazdallier\nCrazIIZen\nVeraDalva\nSir_Mi2ter
+
+#MINION COMMANDS
+minioncommand.vampirism.attackhostilenoplayers=Attaque hostile
+minioncommand.vampirism.attackhostile=Attaque hostile incluant le joueur
+minioncommand.vampirism.collectblood=Recueillir le sang
+minioncommand.vampirism.defendlord=Défendre le Seigneur
+minioncommand.vampirism.stayhere=Restez ici
+minioncommand.vampirism.comeback=Reviens (favoris distants)
+minioncommand.vampirism.justfollow=Suit-moi seulement
+minioncommand.vampirism.converttosaveable=Rendre la femme d'attache
+minioncommand.vampirism.defendarea=Défendez la zone
+
+#CONFIG
+category.vampirism.balance=Propriétés d'équilibrage
+category.vampirism.balance.tooltip=Change presque n'importe quelle propriété d'équilibrage appropriée
+category.vampirism.balance_general=Général
+category.vampirism.balance_general.tooltip=Configuration générale
+category.vampirism.balance_leveling=Configuration des niveaux
+category.vampirism.balance_vampire_player=Chef des vampires
+category.vampirism.balance_vampire_player.tooltip=Configurer les modifiers des vampires
+category.vampirism.balance_vampire_player_skills=Capacité des Joueur Vampires
+category.vampirism.balance_vampire_player_skills.tooltip=Configuration des aptitudes
+category.vampirism.balance_vampire_player_actions=Actions du joueur vampire
+category.vampirism.balance_vampire_player_actions.tooltip=Configurer les Actions
+category.vampirism.balance_hunter_player=Chef des chasseurs
+category.vampirism.balance_hunter_player.tooltip=Configurer les aptitiudes des Chasseurs
+category.vampirism.balance_hunter_player_skills=Capacités des Joueurs Vampires
+category.vampirism.balance_hunter_player_skills.tooltip=Configuration des aptitudes
+category.vampirism.balance_hunter_player_actions=Actions des Joueurs Hunter
+category.vampirism.balance_hunter_player_actions.tooltip=Configurer les Actions
+category.vampirism.balance_mob_prop=Propriétés des Créatures Hostiles de Vampirism
+category.vampirism.balance_mob_prop.tooltip=Modifie les propriétés des créatures rajoutées par Vampirism
+category.vampirism.balance_village=Propriétés des village
+category.vampirism.balance_village.tooltip=Change la manière d'agir des Chasseurs dans les villages et adjuste d'autres options relatives aux villages
+category.vampirism.balance_leveling.tooltip=Configurez les niveaux du Joueur
+category.vampirism.disable=Désactiver des fonctionnalités
+category.vampirism.disable.tooltip=Désactive des parties du mod (non recommandé)
+category.vampirism.village=Configuration de village
+category.vampirism.village.tooltip=Configurer les modifications de village de Vampirism
+category.vampirism.gui=Configuration de l’interface graphique
+category.vampirism.gui.tooltip=Configurer l’affichage
+
+
